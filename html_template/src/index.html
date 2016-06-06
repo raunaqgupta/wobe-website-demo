@@ -19,56 +19,168 @@
 </head>
 <body>
 
+<div id="mobile-navbar" class="mobile-menu navmenu navmenu-default navmenu-fixed-left offcanvas">
+  <ul class="nav navbar-nav">
+    <li class="active"><a href="/">What is Wobe <span class="sr-only">(current)</span></a></li>
+    <li><a href="/">Join Wobe</a></li>
+    <li><a href="/">Contact</a></li>
+    <li><a href="/">CSR</a></li>
+  </ul>
+  <ul class="nav navbar-nav menu-lang">
+    <li class="indonesia"><a href="#">Indonesia</a></li>
+    <li class="english"><a href="#">English</a></li>
+  </ul>
+</div><!--/.nav-collapse -->
+
 <!-- Navigation -->
 <nav class="navbar navbar-default">
   <div class="container">
-  <div class="navbar-header">
-    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-      <span class="sr-only">Toggle navigation</span>
-      <span class="icon-bar"></span>
-      <span class="icon-bar"></span>
-      <span class="icon-bar"></span>
-    </button>
-    <a class="navbar-brand" href="/">
-      <img src="assets/images/logo@2x.png" alt="Wobe">
-      <span class="sr-only">Wobe - Mobile & finance tool to help you kickstart your own business.</span>
-    </a>
-  </div>
-  <div id="navbar" class="navbar-collapse collapse">
-    <ul class="nav navbar-nav navbar-right">
-      <li class="active"><a href="/">What is Wobe <span class="sr-only">(current)</span></a></li>
-      <li><a href="/">Join Wobe</a></li>
-      <li><a href="/">Contact</a></li>
-      <li><a href="/">CSR</a></li>
-    </ul>
-  </div><!--/.nav-collapse -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-canvas="body" data-toggle="offcanvas" data-target=".mobile-menu" aria-expanded="false" aria-controls="navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="/">
+        <img src="assets/images/logo@2x.png" alt="Wobe">
+        <span class="sr-only">Wobe - Mobile & finance tool to help you kickstart your own business.</span>
+      </a>
+    </div>
+    <div id="navbar" class="pull-right hidden-xs hidden-sm">
+      <div class="row">
+        <ul class="nav navbar-nav navbar-right menu-lang">
+          <li class="indonesia"><a href="#">ID</a></li>
+          <li class="english"><a href="#">EN</a></li>
+        </ul>
+      </div>
+      <div class="row">
+        <ul class="nav navbar-nav navbar-right">
+          <li class="active"><a href="/">What is Wobe <span class="sr-only">(current)</span></a></li>
+          <li><a href="/">Join Wobe</a></li>
+          <li><a href="/">Contact</a></li>
+          <li><a href="/">CSR</a></li>
+        </ul>
+      </div>
+    </div><!--/.nav-collapse -->
   </div>
 </nav>
 
 <!-- Page Header -->
-<header class="headerWrapper">
-  <div class="header-image">
-    <img src="assets/images/header-image.jpg" alt="Wobe" />
-  </div>
+<header class="header-wrapper">
   <div class="container">
-    About
+    <div class="hero-wrapper">
+      <div class="hero-image">
+        <img src="assets/images/phone-wobe.png" alt="">
+      </div>
+      <div class="hero-text visible-md visible-lg">
+        <h1>We Use Wobe</h1>
+        <p>Mobile & finance tool<br>
+          to help you kickstart<br>
+          your own business.</p>
+        <a href="#"><img src="assets/images/play-store@2x.png" alt="Download our app in goole play"></a>
+      </div>
+    </div>
+  </div>
+  <div class="header-image hidden-xs hidden-sm">
+    <img src="assets/images/header-image.png" alt="Wobe" />
   </div>
 </header>
 <!-- //Page Header -->
 
-<section class="page-section">
-
+<section class="page-section testimonials-section">
+  <div class="container">
+    <h2>Testimonials</h2>
+    <div class="row testimonials-list">
+      <div class="col-sm-12 col-md-4 testimonials-items">
+        <div class="image-wrapper">
+          <img src="assets/images/bitmap@2x.png" alt="testimonials" />
+        </div>
+        <div class="description-wrapper">
+          <p>I was amazed at how easy InVision is to use—it's so intuitive and beautiful to look at, too.
+          I've yet to see a better way of turning flat comps into working prototypes with such ease, grace, and beauty.
+           — <strong>Kania Ayunintias</strong></p>
+        </div>
+      </div>
+      <div class="col-sm-12 col-md-4 testimonials-items">
+        <div class="image-wrapper">
+          <img src="assets/images/bitmap@2x.png" alt="testimonials" />
+        </div>
+        <div class="description-wrapper">
+          <p>I was amazed at how easy InVision is to use—it's so intuitive and beautiful to look at, too.
+          I've yet to see a better way of turning flat comps into working prototypes with such ease, grace, and beauty.
+           — <strong>Kania Ayunintias</strong></p>
+        </div>
+      </div>
+      <div class="col-sm-12 col-md-4 testimonials-items">
+        <div class="image-wrapper">
+          <img src="assets/images/bitmap@2x.png" alt="testimonials" />
+        </div>
+        <div class="description-wrapper">
+          <p>I was amazed at how easy InVision is to use—it's so intuitive and beautiful to look at, too.
+          I've yet to see a better way of turning flat comps into working prototypes with such ease, grace, and beauty.
+           — <strong>Kania Ayunintias</strong></p>
+        </div>
+      </div>
+    </div>
+  </div>
 </section>
 
-<!-- Footer -->
-<footer class="footerWrapper">
+<section class="page-section services-section">
   <div class="container">
-    footer
+    <div class="row services-list">
+      <div class="col-sm-12 col-md-4 services-items">
+        <div class="inner">
+          <img src="assets/images/to-do@2x.png" alt="Lorem">
+          <h3>Untapped <br>Potential</h3>
+          <p>There will be 150 million people in Indonesia’s middle class by  2020. What if you could reach them easily? </p>
+        </div>
+      </div>
+      <div class="col-sm-12 col-md-4 services-items">
+        <div class="inner">
+          <img src="assets/images/speaker-01@2x.png" alt="Lorem">
+          <h3>Employment, <br>everywhere</h3>
+          <p>There will be 150 million people in Indonesia’s middle class by  2020. What if you could reach them easily? </p>
+        </div>
+      </div>
+      <div class="col-sm-12 col-md-4 services-items">
+        <div class="inner">
+          <img src="assets/images/alarm@2x.png" alt="Lorem">
+          <h3>Always <br>On</h3>
+          <p>There will be 150 million people in Indonesia’s middle class by  2020. What if you could reach them easily? </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- Footer -->
+<footer class="footer-wrapper">
+  <div class="container">
+    <div class="row inner">
+      <div class="col-sm-12 col-md-6 bottom-logo">
+        <img src="assets/images/logo-copy@2x.png" alt="Wobe">
+        <p><strong>Wobe Pte Ltd</strong><br>
+          71 Ayer Rajah Crescent #06-11<br>
+          Singapore 139951</p>
+      </div>
+      <div class="col-sm-12 col-md-6 social-media">
+        <div class="pull-right">
+          <p>Investor Relations</p>
+          <ul class="list-inline list-unstyled">
+            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+            <li><a href="#"><i class="fa fa-whatsapp"></i></a></li>
+            <li><a href="#"><i class="fa fa-youtube"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
   </div>
 </footer>
 <!-- //Footer -->
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.3/jquery.min.js"></script>
+<script src="https://use.fontawesome.com/9cafd4fe2e.js"></script>
 <script src="assets/scripts/scripts.js"></script>
 </body>
 </html>

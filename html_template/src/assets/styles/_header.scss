@@ -1,0 +1,22 @@
+.header-wrapper{
+  height: 310px;
+  overflow: hidden;
+  position: relative;
+  @media screen and (min-width: 995px){
+    height: 748px;
+  }
+}
+.header-image{
+  background: $purple;
+  height: 310px;
+  overflow: hidden;
+  position: fixed;
+  width: 100%;
+  z-index: -1;
+  @media screen and (min-width: 995px){
+    height: 748px;
+  }
+  img{
+    width: 100%;
+  }
+}
