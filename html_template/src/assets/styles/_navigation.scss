@@ -1,11 +1,12 @@
 .navbar-default{
-  background: none;
+  background: #411c5d;
   border: 0 none;
   height: auto;
   margin-bottom: 0;
   position: relative;
   z-index: 3;
   @media screen and (min-width: 995px){
+    background: none;
     left: 50%;
     position: absolute;
     transform: translate(-50%,0);
@@ -28,14 +29,14 @@
         margin: 0;
       }
     }
-    .navbar-toggle{
-      float: none;
-      position: absolute;
-      left: 20px;
-      top: 20px;
-      background: none !important;
-      border: 0 none;
-    }
+  }
+  .navbar-toggle{
+    float: none;
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    background: none !important;
+    border: 0 none;
   }
 }
 

@@ -1,0 +1,50 @@
+.article-section{
+  background: $white;
+  font-size: 18px;
+  line-height: 1.7;
+  text-align: left;
+  h2{
+    color: $purple;
+    font-size: 18px;
+    margin-top: 25px;
+    text-align: left;
+  }
+  .container{
+    max-width: 800px;
+  }
+}
+
+.internal{
+  .header-wrapper{
+    background-image: linear-gradient(to bottom, #411c5d, #231342);
+    height: auto;
+  }
+  .hero-wrapper{
+    left: auto;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 0 0 40px;
+    position: initial;
+    text-align: center;
+    transform: initial;
+    width: 100%;
+    @media screen and (min-width: 995px){
+      padding: 160px 0 40px;
+    }
+    h1{
+      font-size: 36px;
+    }
+    p{
+      font-size: 24px;
+      line-height: 1.5;
+      strong {
+        color: $deep-lilac;
+        font-size: 20px;
+        font-weight: 700;
+      }
+    }
+    hr{
+      border-color: #533a78;
+    }
+  }
+}

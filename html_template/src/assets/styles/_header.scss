@@ -1,8 +1,10 @@
 .header-wrapper{
+  background-image: linear-gradient(to bottom, #411c5d, #231342);
   height: 310px;
   overflow: hidden;
   position: relative;
   @media screen and (min-width: 995px){
+    background: none;
     height: 748px;
   }
 }

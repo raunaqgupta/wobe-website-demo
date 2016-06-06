@@ -7,6 +7,7 @@ var gulp = require('gulp'),
   eslint = require('gulp-eslint'),
   filter = require('gulp-filter'),
   gutil = require('gulp-util'),
+  gulpConnectSsi = require('gulp-connect-ssi'),
   include = require('gulp-include'),
   jest = require('jest-cli'),
   jslint = require('gulp-jslint'),
@@ -47,7 +48,7 @@ var assets = {
       paths.src + paths.type.font + '**/*'
     ],
     views: [
-      paths.src + '**/*.html'
+      paths.src + '**/*.*htm*'
     ],
     sampleData: [
       paths.src + paths.type.sampleData + '**/*'
@@ -154,6 +155,13 @@ gulp.task('connect', connect.server({
   livereload: {
     'port': 35729
   },
+  middleware: function(){
+    return [gulpConnectSsi({
+      baseDir: paths.dist,
+      ext: '.htm',
+      method: 'readOnLineIfNotExist'  // readOnLine|readLocal|readOnLineIfNotExist|downloadIfNotExist
+    })];
+  }
 }));
 
 /**
