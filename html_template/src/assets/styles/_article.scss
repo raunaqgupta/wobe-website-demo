@@ -29,7 +29,7 @@
     transform: initial;
     width: 100%;
     @media screen and (min-width: 995px){
-      padding: 160px 0 40px;
+      padding: 230px 0 40px;
     }
     h1{
       font-size: 36px;
@@ -45,6 +45,17 @@
     }
     hr{
       border-color: #533a78;
+    }
+  }
+}
+
+.team-listing{
+  p{
+    font-weight: bold;
+    margin: 0;
+    & + p{
+      font-weight: normal;
+      margin-bottom: 30px;
     }
   }
 }

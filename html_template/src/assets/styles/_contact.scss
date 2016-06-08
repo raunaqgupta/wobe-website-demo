@@ -1,0 +1,44 @@
+.map-section{
+  background: $white;
+  padding: 0;
+  .row{
+    display: table;
+    margin: 0;
+    width:100%;
+  }
+  .column{
+    display: table-cell;
+    text-align: center;
+    img{
+      width: 100%;
+    }
+    p{
+      font-size: 16px;
+      line-height: 1.5;
+      margin: 20px 0 0;
+    }
+  }
+}
+
+.form-section{
+  background: $white;
+  padding: 100px 0;
+  form{
+    background: url("../images/icon-mail.png") no-repeat left top;
+    background-size: 66px;
+    margin: 0 auto;
+    padding-left: 88px;
+    width: 692px;
+  }
+  textarea{
+    height: 180px;
+  }
+}
+
+button.form-control{
+  background: $purple;
+  border-radius:37px;
+  color: $white;
+  margin: 23px 0;
+  text-transform: uppercase;
+}
