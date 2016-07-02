@@ -1,0 +1,122 @@
+.navbar-default{
+  background: #FFFFFF;
+  border: 0 none;
+  height: auto;
+  margin-bottom: 0;
+  position: relative;
+  z-index: 3;
+  @media screen and (min-width: 995px){
+    background: none;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,0);
+    top: 50px;
+  }
+  .navbar-nav{
+    li{
+      font-size: 20px;
+      margin: 0 27px;
+      a{
+        color: $main-link;
+        margin: 0 18px;
+        padding: 14px 0;
+        &:hover{
+          font-weight: bold;
+        }
+      }
+      &:last-child{
+        margin-right: 0;
+      }
+    }
+    .menu-lang{
+      li{
+        margin: 0;
+      }
+    }
+  }
+  .navbar-toggle{
+    float: none;
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    background: none !important;
+    border: 0 none;
+  }
+}
+
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:hover,
+.navbar-default .navbar-nav>.active>a:focus{
+  background: none;
+  color: $main-link;
+}
+
+#mobile-navbar{
+  background: #79B7FE;
+  border: 0 none;
+  margin: 0;
+  padding: 30px 0;
+  width: 190px;
+  a{
+    color: $white;
+    padding: 10px 30px;
+  }
+  .nav>li>a:hover,
+  .nav>li>a:focus{
+    background: #3780D5;
+  }
+  .navbar-nav{
+    margin: 0;
+  }
+}
+
+.navbar-brand{
+  display: block;
+  height: auto;
+  float: none;
+  margin: 0 auto;
+  text-align: center;
+  @media screen and (min-width: 995px){
+    float: left;
+  }
+  img{
+    height: auto;
+    margin: auto;
+    position: relative;
+    top: 15px;
+    width: 117px;
+    @media screen and (min-width: 995px){
+      top: auto;
+      width: 191px;
+    }
+  }
+}
+
+ul.menu-lang{
+  li{
+    font-size: 16px !important;
+    margin: 0 !important;
+    &.indonesia{
+      a{
+        &::before{
+          content: url('../images/flag-indonesia.png');
+          display: inline-block;
+          height: 12px;
+          margin: 0 10px 0 0;
+          width: 18px;
+        }
+      }
+    }
+    &.english{
+      a{
+        &::before{
+          content: url('../images/flag-uk.png');
+          display: inline-block;
+          height: 12px;
+          margin: 0 10px 0 0;
+          width: 18px;
+        }
+      }
+    }
+  }
+}
