@@ -12,7 +12,10 @@
   ],
   "author": "Reza",
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+    "gulp-connect-ssi": "^0.3.2",
+    "gulp-include": "^2.3.1"
+  },
   "devDependencies": {
     "eslint": "^2.9.0",
     "eslint-config-defaults": "^9.0.0",
