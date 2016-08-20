@@ -1,19 +1,19 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+# If you change any of these settings, website will need to be rebuilt
 
 # Site settings
 title: Wobe
 email: info@wobe.io
 description: > # this means to ignore newlines until "baseurl:"
-  Todo - insert description
+  Mobile & finance tool to help you kickstart your own business.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://wobe.io" # the base hostname & protocol for your site
-twitter_username: wobe_id
-github_username:  
+
+# Wobe specific variables
+play_store_url: "https://play.google.com/store/search?q=wobe"
+soc_facebook: "http://facebook.com/wobe"
+soc_twitter: "http://twitter.com/wobe"
+soc_whatsapp: "http://whatsapp.com/wobe"
+soc_youtube: "http://youtube.com/wobe"
 
 # Build settings
 markdown: kramdown

@@ -1,38 +1,29 @@
-<footer class="site-footer">
-
-  <div class="wrapper">
-
-    <h2 class="footer-heading">{{ site.title }}</h2>
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li>{{ site.title }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        </ul>
+<!-- Footer -->
+<footer class="footer-wrapper">
+  <div class="container">
+    <div class="row inner">
+      <div class="col-sm-12 col-md-6 bottom-logo">
+        <img src="{{ "/assets/images/logo-copy@2x.png" | prepend: site.baseurl }}" alt="Wobe">
+        <p><strong>Wobe Pte Ltd</strong><br>
+          71 Ayer Rajah Crescent #06-11<br>
+          Singapore 139951</p>
       </div>
-
-      <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description }}</p>
+      <div class="col-sm-12 col-md-6 social-media">
+        <div class="pull-right">
+          <p>Investor Relations</p>
+          <ul class="list-inline list-unstyled">
+            <li><a href="{{ site.soc_facebook }}"><i class="fa fa-facebook"></i></a></li>
+            <li><a href="{{ site.soc_twitter }}"><i class="fa fa-twitter"></i></a></li>
+            <li><a href="{{ site.whatsapp }}"><i class="fa fa-whatsapp"></i></a></li>
+            <li><a href="{{ site.soc_youtube }}"><i class="fa fa-youtube"></i></a></li>
+          </ul>
+        </div>
       </div>
     </div>
-
   </div>
-
 </footer>
+<!-- //Footer -->
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.3/jquery.min.js"></script>
+<script src="https://use.fontawesome.com/9cafd4fe2e.js"></script>
+<script src="{{ "assets/scripts/scripts.js" | prepend: site.baseurl }}"></script>
