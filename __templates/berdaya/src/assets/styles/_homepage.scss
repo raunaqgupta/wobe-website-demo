@@ -1,0 +1,136 @@
+.page-section{
+  padding: 25px 0 31px;
+  h2{
+    letter-spacing: 2.67px;
+    font-size: 14px;
+    font-weight: bold;
+    margin: 0 0 30px;
+    text-align: center;
+    text-transform: uppercase;
+    @media screen and (min-width: 995px) {
+      font-size: 24px;
+    }
+  }
+}
+
+.hero-wrapper{
+  bottom: 0;
+  display: table;
+  margin: auto;
+  .hero-image{
+    display: none;
+    width: auto;
+    @media screen and (min-width: 995px) {
+      display: table-cell;
+      width: 141px;
+    }
+    img{
+      height: 211px;
+      @media screen and (min-width: 995px){
+        height: 211px;
+        width: 141px;
+      }
+    }
+  }
+  .hero-text{
+    display: table-cell;
+    padding: 45px 0 0 12px;
+    vertical-align: top;
+  }
+  h1{
+    color: $main-link;
+    font-size: 80px;
+  }
+  p{
+    font-size: 24px;
+  }
+}
+
+.testimonials-section{
+  background: $white;
+  color: $dark-grey;
+  padding: 50px 0;
+  .testimonials-items {
+    display: flex;
+    flex-flow: center;
+    margin: 0 0 20px;
+  }
+  .image-wrapper{
+    display: inline-flex;
+    margin: 0 15px 0;
+    img{
+      height: 60px;
+      @media screen and (min-width: 995px) {
+        height: 100px;
+      }
+    }
+  }
+  .description-wrapper{
+    display: inline-flex;
+    p{
+      line-height: 1.5;
+    }
+  }
+  strong{
+    display: block;
+    font-weight: 700;
+  }
+}
+
+.services-section{
+  background: $main-link;
+  color: $white;
+  padding: 50px 0;
+  text-align: center;
+  .inner{
+    margin: 0 0 30px;
+    padding: 0 42px;
+  }
+}
+
+.homepage{
+  .hero-wrapper{
+    margin-top: -20px;
+  }
+  .hero-text{
+    color: $dark-grey;
+    display: table-cell !important;
+    padding-left: 0;
+    text-align: center;
+    vertical-align: middle;
+    @media screen and (min-width: 995px) {
+      padding-left: 30px;
+    }
+    img, p, a{
+      float: left;
+    }
+    img{
+      margin-top: 10px;
+    }
+    p{
+      font-size: 10px;
+      text-align: left;
+      width: 50%;
+      @media screen and (min-width: 995px) {
+        font-size: 18px;
+        padding: 0 90px 0 50px;
+        text-align: center;
+        width: initial;
+      }
+    }
+    &> img{
+      display:none;
+      @media screen and (min-width: 995px) {
+        display: initial;
+      }
+    }
+    a{
+      img{
+        width: 120px;
+        @media screen and (min-width: 995px) {
+          width: 200px;
+        }
+      }
+    }
+  }
+}

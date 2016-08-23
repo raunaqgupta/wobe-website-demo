@@ -1,0 +1,75 @@
+.article-section{
+  background: $white;
+  font-size: 18px;
+  line-height: 1.7;
+  text-align: left;
+  h2{
+    color: $dark-grey;
+    font-size: 18px;
+    margin-top: 25px;
+    text-align: left;
+  }
+  .container{
+    max-width: 800px;
+  }
+}
+
+.internal{
+  .header-wrapper{
+    background-image: linear-gradient(to bottom, #FFFFFF, #FFFFFF, #d7ebfa);
+    height: auto;
+    position: relative;
+  }
+  .hero-wrapper{
+    left: auto;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 0 0 40px;
+    position: initial;
+    text-align: center;
+    transform: initial;
+    width: 100%;
+    @media screen and (min-width: 995px){
+      padding: 230px 0 40px;
+    }
+    h1{
+      font-size: 24px;
+      @media screen and (min-width: 995px){
+        font-size: 36px;
+      }
+    }
+    p{
+      color: $main-link;
+      font-size: 24px;
+      font-weight: 700;
+      line-height: 1.5;
+      strong {
+        color: $dark-grey;
+        font-size: 20px;
+        font-weight: 700;
+      }
+    }
+    hr{
+      border-color: #e1e1e1;
+      margin: auto;
+      position: absolute;
+      bottom: 0;
+      top: 50px;
+      left: 0;
+      right: 0;
+      width: 100%;
+      max-width: 1170px;
+    }
+  }
+}
+
+.team-listing{
+  p{
+    font-weight: bold;
+    margin: 0;
+    & + p{
+      font-weight: normal;
+      margin-bottom: 30px;
+    }
+  }
+}

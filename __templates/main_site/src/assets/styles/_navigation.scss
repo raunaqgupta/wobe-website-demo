@@ -1,0 +1,115 @@
+.navbar-default{
+  background: #411c5d;
+  border: 0 none;
+  height: auto;
+  margin-bottom: 0;
+  position: relative;
+  z-index: 3;
+  @media screen and (min-width: 995px){
+    background: none;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,0);
+    top: 50px;
+  }
+  .navbar-nav{
+    li{
+      font-size: 20px;
+      margin: 0 27px;
+      a{
+        color: $white;
+        padding: 14px 18px;
+      }
+      &:last-child{
+        margin-right: 0;
+      }
+    }
+    .menu-lang{
+      li{
+        margin: 0;
+      }
+    }
+  }
+  .navbar-toggle{
+    float: none;
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    background: none !important;
+    border: 0 none;
+  }
+}
+
+#navbar .navbar-nav > li > a:hover {
+  color: #ccc;
+}
+
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:hover,
+.navbar-default .navbar-nav>.active>a:focus{
+  background: none;
+  color: $white;
+}
+
+#mobile-navbar{
+  background: #1d0530;
+  border: 0 none;
+  margin: 0;
+  padding: 30px 0;
+  width: 190px;
+  a{
+    color: $white;
+    padding: 10px 30px;
+  }
+  .navbar-nav{
+    margin: 0;
+  }
+}
+
+.navbar-brand{
+  display: block;
+  height: auto;
+  float: none;
+  margin: 0 auto;
+  text-align: center;
+  @media screen and (min-width: 995px){
+    float: left;
+  }
+  img{
+    height: auto;
+    margin: 0 auto;
+    width: 62px;
+    @media screen and (min-width: 995px){
+      width: initial;
+    }
+  }
+}
+
+ul.menu-lang{
+  li{
+    font-size: 16px !important;
+    margin: 0 !important;
+    &.indonesia{
+      a{
+        &::before{
+          content: url('../images/flag-indonesia.png');
+          display: inline-block;
+          height: 12px;
+          margin: 0 10px 0 0;
+          width: 18px;
+        }
+      }
+    }
+    &.english{
+      a{
+        &::before{
+          content: url('../images/flag-uk.png');
+          display: inline-block;
+          height: 12px;
+          margin: 0 10px 0 0;
+          width: 18px;
+        }
+      }
+    }
+  }
+}
