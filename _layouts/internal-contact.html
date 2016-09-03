@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  {% include head.html %}
+</head>
+<body class="internal">
+
+{% include header.html %}
+
+<!-- Page Header -->
+<header class="header-wrapper">
+  <div class="container">
+    <div class="hero-wrapper">
+      <h1>{{ page.title }}</h1>
+      <div class="hero-text visible-md visible-lg">
+        <hr>
+        <p><strong>{{ page.intro_title }}</strong></p>
+        <p>{{ page.intro_text }}</p>
+      </div>
+    </div>
+  </div>
+</header>
+<!-- //Page Header -->
+
+<section class="page-section map-section">
+  <div class="row">
+    <div class="column">
+      <img src="{{ "/assets/images/map-wobe-singapore.png" | prepend: site.baseurl }}" alt="">
+      <p><strong>Wobe Pte Ltd</strong><br>
+        71 Ayer Rajah Crescent<br>
+        #06-­11<br>
+        Singapore 139951</p>
+    </div>
+    <div class="column">
+    <img src="{{ "/assets/images/map-wobe-indonesia.png" | prepend: site.baseurl }}" alt="">
+      <p><strong>PT. Wobe Teknologi Utama</strong><br>
+      Jl. Nias No. 82, Gubeng Kecamatan Gubeng Kota,<br>
+      Surabaya, Indonesia</p>
+    </div>
+  </div>
+</section>
+
+<section class="page-section form-section">
+  <div class="container">
+    <h2>{{ page.subtitle }}</h2>
+
+    {{ content }}
+  </div>
+</section>
+
+{% include footer.html %}
+
+</body>
+</html>
