@@ -15,10 +15,16 @@
   .navbar-nav{
     li{
       font-size: 20px;
-      margin: 0 27px;
+      margin: 0 15px;
+      @include desktop{
+        margin: 0 27px;
+      }
       a{
         color: $white;
-        padding: 14px 18px;
+        padding: 14px 10px;
+        @include desktop{
+          padding: 14px 18px;
+        }
       }
       &:last-child{
         margin-right: 0;
@@ -37,6 +43,10 @@
     top: 20px;
     background: none !important;
     border: 0 none;
+    .icon-bar{
+      background-color: $white;
+      height: 3px;
+    }
   }
 }
 
@@ -54,12 +64,16 @@
 #mobile-navbar{
   background: #1d0530;
   border: 0 none;
+  font-size: 18px;
   margin: 0;
   padding: 30px 0;
   width: 190px;
   a{
     color: $white;
     padding: 10px 30px;
+    &:hover{
+      background-color: $menu-hover;
+    }
   }
   .navbar-nav{
     margin: 0;

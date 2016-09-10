@@ -1,13 +1,20 @@
 .article-section{
   background: $white;
-  font-size: 18px;
+  font-size: 14px;
   line-height: 1.7;
   text-align: left;
+  @include tablet{
+    font-size: 18px;
+  }
   h2{
     color: $purple;
-    font-size: 18px;
+    font-size: 14px;
+    font-weight: bold;
     margin-top: 25px;
     text-align: left;
+    @include tablet{
+      font-size: 18px;
+    }
   }
   .container{
     max-width: 800px;
@@ -32,7 +39,10 @@
       padding: 230px 0 40px;
     }
     h1{
-      font-size: 36px;
+      font-size: 24px;
+      @include tablet{
+        font-size: 36px;
+      }
     }
     p{
       font-size: 24px;

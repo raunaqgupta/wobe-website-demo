@@ -1,10 +1,35 @@
+.small-google-play{
+  text-align: center;
+  margin: -20px auto 42px;
+    img{
+      max-width: 120px;
+    }
+}
+.homepage{
+  .header-wrapper{
+    height: 424px;
+    &::after{
+      display: none;
+    }
+  }
+}
 .page-section{
   padding: 25px 0 31px;
   h2{
-    font-size: 24px;
+    font-size: 12px;
+    letter-spacing: 2.7px;
     margin: 0 0 30px;
     text-align: center;
     text-transform: uppercase;
+    @include tablet{
+      font-size: 24px;
+    }
+  }
+  h3{
+    font-size: 18px;
+    @include tablet{
+      font-size: 24px;
+    }
   }
 }
 
@@ -15,9 +40,9 @@
   position: absolute;
   transform: translate(-50%,0);
   .hero-image{
-    display: table-cell;
     width: auto;
     @media screen and (min-width: 995px) {
+      display: table-cell;
       width: 315px;
     }
     img{
@@ -84,4 +109,3 @@
     padding: 0 42px;
   }
 }
-

@@ -3,7 +3,7 @@
 <head>
   {% include head.html %}
 </head>
-<body>
+<body class="homepage">
 
 {% include header.html %}
 
@@ -11,6 +11,11 @@
 <header class="header-wrapper">
   <div class="container">
     <div class="hero-wrapper">
+      <div class="hero-text hero-text-mobile visible-xs visible-sm">
+        <p>Mobile & finance tool<br>
+          to help you kickstart<br>
+          your own business.</p>
+      </div>
       <div class="hero-image">
         <img src="{{ "/assets/images/phone-wobe.png" | prepend: site.baseurl }}" alt="">
       </div>
@@ -31,6 +36,7 @@
 
 <section class="page-section testimonials-section">
   <div class="container">
+    <a class="visible-xs visible-sm small-google-play" href="{{ site.play_store_url }}"><img src="{{ "/assets/images/play-store@2x.png" | prepend: site.baseurl }}" alt="Download our app in goole play"></a>
     <h2>Testimonials</h2>
     <div class="row testimonials-list">
       <div class="col-sm-12 col-md-4 testimonials-items">

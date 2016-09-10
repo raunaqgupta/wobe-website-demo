@@ -1,3 +1,17 @@
+
+$desktop-width: 995px;
+$tablet-width: 767px;
+@mixin desktop {
+  @media screen and (min-width: #{$desktop-width}) {
+    @content;
+  }
+}
+@mixin tablet {
+  @media screen and (min-width: #{$tablet-width}) {
+    @content;
+  }
+}
+
 /* color variable */
 $dark-gray: #262626;
 $deep-lilac: #886eb8;
@@ -5,8 +19,12 @@ $light-teal: #65dfbf;
 $purple: #411C5D;
 $teal: #2dafaa;
 $white: #FFFFFF;
+$menu-hover: #3f1c5b;
 
 body{
   background: $dark-gray;
-  font: 300 16px 'Lato', Arial, sans-serif;
+  font: 300 12px 'Lato', Arial, sans-serif;
+  @include tablet{
+    font-size: 16px;
+  }
 }

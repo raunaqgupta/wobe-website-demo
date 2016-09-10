@@ -7,6 +7,16 @@
     background: none;
     height: 748px;
   }
+  &::after {
+    background: url("../images/footer-border.png") no-repeat center top;
+    background-size: 100% 100%;
+    content: '';
+    display: block;
+    height: 6px;
+    @include desktop{
+      display: none;
+    }
+  }
 }
 .header-image{
   background: $purple;
