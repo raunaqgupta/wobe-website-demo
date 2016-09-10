@@ -8,6 +8,9 @@
 .homepage{
   .header-wrapper{
     height: 424px;
+    @include desktop{
+      height: 748px;
+    }
     &::after{
       display: none;
     }
