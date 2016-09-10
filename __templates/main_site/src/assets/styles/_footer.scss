@@ -60,7 +60,7 @@
   .pull-right{
     &>*{
       float: left;
-      @media screen and (max-width: 768px){
+      @media screen and (max-width: 767px){
         float: none;
         text-align: center;
       }
@@ -68,12 +68,12 @@
   }
   p{
     margin: 8px 30px 0 0;
-    @media screen and (max-width: 768px){
+    @media screen and (max-width: 767px){
       text-align: center;
       margin: 20px 0;
     }
   }
-  @media screen and (max-width: 768px){
+  @media screen and (max-width: 767px){
     display: table;
     margin: 0 auto;
     .pull-right{

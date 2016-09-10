@@ -112,3 +112,23 @@
     padding: 0 42px;
   }
 }
+
+.logo-section{
+  background: $white;
+  text-align: center;
+  .logo-list{
+    @include desktop{
+      display: flex;
+      display: -webkit-flex;
+      -webkit-flex-direction: row;
+      flex-direction: row;
+      -webkit-align-items: center;
+      align-items: center;
+      -webkit-justify-content: center;
+      justify-content: center;
+    }
+  }
+  .logo-items{
+    padding: 20px 0;
+  }
+}
