@@ -7,4 +7,4 @@ intro_text: No global movement springs from individuals. It takes an entire team
 permalink: /join/
 ---
 
-This is the content that can be found on `join.md` file on the root location.
+This is the content that can be found on `join.md` file on the root location. The other variables are located at `_layout/page-join.html`.

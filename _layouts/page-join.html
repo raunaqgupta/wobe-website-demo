@@ -1,56 +1,29 @@
 ---
 layout: internal
+vacancies:
+  - Copywriter|| http://apply-link/|| I was amazed at how easy InVision is to use—it's so intuitive and beautiful to look at, too. I've yet to see a better way of turning flat comps into working prototypes with such ease, grace, and beauty.|| /assets/images/icon-pen.png
+  - Front-end web developer|| http://apply-link/|| Description for front-end web|| /assets/images/icon-scissors.png
+  - Designer|| http://apply-link/|| Description for designer lipsum|| /assets/images/icon-dashboard.png
 ---
 
 {{ content }}
 
 <div class="job-list">
+  {% for job_item in layout.vacancies %}
+  {% assign field = job_item | split: "|| " %}
   <div class="job-items">
     <div class="job-icon">
-      <img src="{{ "/assets/images/icon-pen.png" | prepend: site.baseurl }}" alt="">
+      <img src="{{ field[3] }}" alt="{{ field[0] }}">
     </div>
     <div class="job-description">
       <div class="wrapper">
-        <h3>Copywriter</h3>
-        <p>I was amazed at how easy InVision is to use—it's so intuitive and beautiful to look at, too.
-          I've yet to see a better way of turning flat comps into working prototypes with such ease,
-          grace, and beauty.</p>
+        <h3>{{ field[0] }}</h3>
+        <p>{{ field[2] }}</p>
       </div>
       <div class="job-cta">
-        <button class="form-control">Apply</button>
+        <button class="form-control" data-href="{{ field[1] }}">Apply</button>
       </div>
     </div>
   </div>
-  <div class="job-items">
-    <div class="job-icon">
-      <img src="{{ "/assets/images/icon-scissors.png" | prepend: site.baseurl }}" alt="">
-    </div>
-    <div class="job-description">
-      <div class="wrapper">
-        <h3>Frontend</h3>
-        <p>I was amazed at how easy InVision is to use—it's so intuitive and beautiful to look at, too.
-          I've yet to see a better way of turning flat comps into working prototypes with such ease,
-          grace, and beauty.</p>
-      </div>
-      <div class="job-cta">
-        <button class="form-control">Apply</button>
-      </div>
-    </div>
-  </div>
-  <div class="job-items">
-    <div class="job-icon">
-      <img src="{{ "/assets/images/icon-dashboard.png" | prepend: site.baseurl }}" alt="">
-    </div>
-    <div class="job-description">
-      <div class="wrapper">
-        <h3>UI Designer</h3>
-        <p>I was amazed at how easy InVision is to use—it's so intuitive and beautiful to look at, too.
-          I've yet to see a better way of turning flat comps into working prototypes with such ease,
-          grace, and beauty.</p>
-      </div>
-      <div class="job-cta">
-        <button class="form-control">Apply</button>
-      </div>
-    </div>
-  </div>
+  {% endfor %}
 </div>
