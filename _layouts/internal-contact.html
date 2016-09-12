@@ -24,19 +24,16 @@
 
 <section class="page-section map-section">
   <div class="row">
+    {% for location in layout.locations %}
+    {% assign field = location | split: ", " %}
     <div class="column">
-      <img src="{{ "/assets/images/map-wobe-singapore.png" | prepend: site.baseurl }}" alt="">
-      <p><strong>Wobe Pte Ltd</strong><br>
-        71 Ayer Rajah Crescent<br>
-        #06-­11<br>
-        Singapore 139951</p>
+      <img src="{{ field[4] }}" alt="{{ field[0] }}">
+      <p><strong>{{ field[0] }}</strong><br>
+        {{ field[1] }}<br>
+        {{ field[2] }}<br>
+        {{ field[3] }}</p>
     </div>
-    <div class="column">
-    <img src="{{ "/assets/images/map-wobe-indonesia.png" | prepend: site.baseurl }}" alt="">
-      <p><strong>PT. Wobe Teknologi Utama</strong><br>
-      Jl. Nias No. 82, Gubeng Kecamatan Gubeng Kota,<br>
-      Surabaya, Indonesia</p>
-    </div>
+    {% endfor %}
   </div>
 </section>
 
