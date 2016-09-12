@@ -30,69 +30,26 @@
 
     <h2>THE TEAM</h2>
     <div class="team-listing row">
+    {% for team_fields in layout.the_team %}
       <div class="col-xs-12 col-sm-6 col-md-3">
-        <img src="//placehold.it/157x157" />
-        <p>Fullname</p>
-        <p>Title</p>
+        {% assign field = team_fields | split: ", " %}
+        <img src="{{ field[2] }}" />
+        <p>{{ field[0] }}</p>
+        <p>{{ field[1] }}</p>
       </div>
-      <div class="col-xs-12 col-sm-6 col-md-3">
-        <img src="//placehold.it/157x157" />
-        <p>Fullname</p>
-        <p>Title</p>
-      </div>
-      <div class="col-xs-12 col-sm-6 col-md-3">
-        <img src="//placehold.it/157x157" />
-        <p>Fullname</p>
-        <p>Title</p>
-      </div>
-      <div class="col-xs-12 col-sm-6 col-md-3">
-        <img src="//placehold.it/157x157" />
-        <p>Fullname</p>
-        <p>Title</p>
-      </div>
-      <div class="col-xs-12 col-sm-6 col-md-3">
-        <img src="//placehold.it/157x157" />
-        <p>Fullname</p>
-        <p>Title</p>
-      </div>
-      <div class="col-xs-12 col-sm-6 col-md-3">
-        <img src="//placehold.it/157x157" />
-        <p>Fullname</p>
-        <p>Title</p>
-      </div>
-      <div class="col-xs-12 col-sm-6 col-md-3">
-        <img src="//placehold.it/157x157" />
-        <p>Fullname</p>
-        <p>Title</p>
-      </div>
-      <div class="col-xs-12 col-sm-6 col-md-3">
-        <img src="//placehold.it/157x157" />
-        <p>Fullname</p>
-        <p>Title</p>
-      </div>
+    {% endfor %}
     </div>
+
     <h2>THE BOARD OF ADVISORS</h2>
     <div class="team-listing row">
+    {% for team_fields in layout.the_bod %}
       <div class="col-xs-12 col-sm-6 col-md-3">
-        <img src="//placehold.it/157x157" />
-        <p>Fullname</p>
-        <p>Title</p>
+        {% assign field = team_fields | split: ", " %}
+        <img src="{{ field[2] }}" />
+        <p>{{ field[0] }}</p>
+        <p>{{ field[1] }}</p>
       </div>
-      <div class="col-xs-12 col-sm-6 col-md-3">
-        <img src="//placehold.it/157x157" />
-        <p>Fullname</p>
-        <p>Title</p>
-      </div>
-      <div class="col-xs-12 col-sm-6 col-md-3">
-        <img src="//placehold.it/157x157" />
-        <p>Fullname</p>
-        <p>Title</p>
-      </div>
-      <div class="col-xs-12 col-sm-6 col-md-3">
-        <img src="//placehold.it/157x157" />
-        <p>Fullname</p>
-        <p>Title</p>
-      </div>
+    {% endfor %}
     </div>
   </div>
 </section>
