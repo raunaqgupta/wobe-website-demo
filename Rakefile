@@ -16,25 +16,10 @@ task 'deploy' do
     remote_file = file.gsub('_site/', '')
     next if ignored_files.include?(remote_file) || FileTest.directory?(file)
 
-    bucket = s3.bucket(ENV['AWS_BUCKET'])
-
-    begin
-      obj = bucket.object(remote_file)
-      etag = obj.etag.gsub('"', '')
-    rescue
-      obj = nil
-      etag = nil
-    end
-
-    if etag == Digest::MD5.hexdigest(File.read(file))
-      puts "#{obj.public_url} hasn't changed"
-      next
-    end
-
     obj = s3.bucket(ENV['AWS_BUCKET']).object(remote_file)
     obj.upload_file(file, acl: 'public-read')
 
-    puts obj.public_url
+    puts "Uploading #{obj.public_url}"
   end
 
   puts "Done!. Go to #{ENV['AWS_WEBSITE']}"
