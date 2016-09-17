@@ -15,24 +15,68 @@
   .navbar-nav{
     li{
       font-size: 20px;
-      margin: 0 15px;
+      margin: 0 25px;
       @include desktop{
         margin: 0 27px;
       }
       a{
-        color: $white;
-        padding: 14px 10px;
+        color: rgba($white, .5);
+        padding: 14px 0px;
+        position: relative;
         @include desktop{
-          padding: 14px 18px;
+          padding: 14px 0px;
+        }
+        &:hover{
+          color: $white;
+          opacity: 1;
+          &:after{
+            bottom: 0;
+            opacity: 1;
+          }
         }
       }
       &:last-child{
-        margin-right: 0;
+        @include desktop{
+          margin-right: 0;
+        }
+      }
+      &.active{
+        a{
+          color: $white;
+          &:after{
+            bottom: 0;
+            opacity: 1;
+          }
+        }
       }
     }
-    .menu-lang{
+    &.menu-lang{
       li{
         margin: 0;
+        a{
+          margin: 0 20px;
+        }
+        &:last-child{
+          a{
+            @include desktop{
+              margin-right: 0;
+            }
+          }
+        }
+      }
+    }
+    &.main-navigation{
+      a{
+        &:after{
+          background: $white;
+          bottom: -15px;
+          content: "";
+          display: block;
+          height: 2px;
+          opacity: 0;
+          position: absolute;
+          width: 100%;
+        }
       }
     }
   }
@@ -50,15 +94,11 @@
   }
 }
 
-#navbar .navbar-nav > li > a:hover {
-  color: #ccc;
-}
-
 .navbar-default .navbar-nav>.active>a,
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus{
-  background: none;
   color: $white;
+  background: none;
 }
 
 #mobile-navbar{
@@ -75,8 +115,16 @@
       background-color: $menu-hover;
     }
   }
+  .active{
+    a{
+      background-color: $menu-hover;
+    }
+  }
   .navbar-nav{
     margin: 0;
+  }
+  .menu-lang{
+    margin: 33px 0 0;
   }
 }
 
