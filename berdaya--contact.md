@@ -1,5 +1,5 @@
 ---
-layout: page-why-berdaya
+layout: page-berdaya-contact
 title: Contact
 permalink: /berdaya/contact/
 ---
