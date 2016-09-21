@@ -16,7 +16,7 @@
   <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
   <![endif]-->
 </head>
-<body class="homepage">
+<body class="internal">
 
 <div id="mobile-navbar" class="mobile-menu navmenu navmenu-default navmenu-fixed-left offcanvas">
   <ul class="nav navbar-nav">
@@ -68,52 +68,24 @@
 <!-- Page Header -->
 <header class="header-wrapper">
   <div class="container">
-    <div class="header-image">
-      <img src="{{"/assets/images/header-image.png" | prepend: site.baseurl }}" alt="Wobe" />
-    </div>
     <div class="hero-wrapper">
-      <div class="hero-image">
-        <img src="{{"/assets/images/phone-wobe.png" | prepend: site.baseurl }}" alt="">
-      </div>
-      <div class="hero-text visible-md visible-lg row">
-        <img src="{{"/assets/images/logo-wobe.png" | prepend: site.baseurl }}" alt="Wobe" />
-        <p>Brought to you by Wobe,<br>Mobile Business & Finance Tools for<br>Southeast Asian Women</p>
-        <a href="{{ site.play_store_url }}"><img src="{{"/assets/images/play-store@2x.png" | prepend: site.baseurl }}" alt="Download our app in Google play"></a>
+      <h1>{{ page.title }}</h1>
+      <div class="hero-text visible-md visible-lg">
+        <hr>
+        <p><strong>{{ page.intro_title }}</strong></p>
+        <p>{{ page.intro_text }}</p>
       </div>
     </div>
   </div>
 </header>
 <!-- //Page Header -->
 
-<section class="page-section testimonials-section">
+<section class="page-section article-section">
   <div class="container">
-    <h2>Testimonials</h2>
-    <div class="row testimonials-list">
-      <div class="col-sm-12 col-md-4 testimonials-items">
-        <div class="image-wrapper">
-          <img src="{{ page.testimonial_one_image | prepend: site.baseurl }}" alt="{{ page.testimonial_one_name }}" />
-        </div>
-        <div class="description-wrapper">
-          <p>{{ page.testimonial_one_text }} &mdash; <strong>{{ page.testimonial_one_name }}</strong></p>
-        </div>
-      </div>
-      <div class="col-sm-12 col-md-4 testimonials-items">
-        <div class="image-wrapper">
-          <img src="{{ page.testimonial_two_image | prepend: site.baseurl }}" alt="{{ page.testimonial_two_name }}" />
-        </div>
-        <div class="description-wrapper">
-          <p>{{ page.testimonial_two_text }} &mdash; <strong>{{ page.testimonial_two_name }}</strong></p>
-        </div>
-      </div>
-      <div class="col-sm-12 col-md-4 testimonials-items">
-        <div class="image-wrapper">
-          <img src="{{ page.testimonial_three_image | prepend: site.baseurl }}" alt="{{ page.testimonial_three_name }}" />
-        </div>
-        <div class="description-wrapper">
-          <p>{{ page.testimonial_three_text }} &mdash; <strong>{{ page.testimonial_three_name }}</strong></p>
-        </div>
-      </div>
-    </div>
+    <h2>{{ page.subtitle }}</h2>
+
+    {{ content }}
+
   </div>
 </section>
 
