@@ -24,12 +24,12 @@ var webroot = './';
 var paths = {
   src: webroot + 'src/',
   dist: webroot + 'dist/',
+  deploy: '../../',
   type: {
     scripts: 'assets/scripts/',
     styles: 'assets/styles/',
     font: 'assets/fonts/',
     images: 'assets/images/',
-    sampleData: 'data/'
   }
 };
 
@@ -77,6 +77,7 @@ gulp.task('compile-styles', function () {
     .pipe(concat('styles.min.css')) // Concatenate all scripts to a single file
     .pipe(sourcemaps.write('./'))
     .pipe(gulp.dest(paths.dist + paths.type.styles))
+    .pipe(gulp.dest(paths.deploy + paths.type.styles))
     .pipe(connect.reload());
 });
 
@@ -101,6 +102,7 @@ gulp.task('compile-scripts', function () {
     // write sourcemaps
     .pipe(sourcemaps.write('./'))
     .pipe(gulp.dest(paths.dist + paths.type.scripts))
+    .pipe(gulp.dest(paths.deploy + paths.type.scripts))
     .pipe(connect.reload())
 });
 
@@ -111,6 +113,7 @@ gulp.task('copy-images', function () {
 
   return gulp.src(assets.src.images)
     .pipe(gulp.dest(paths.dist + paths.type.images))
+    .pipe(gulp.dest(paths.deploy + paths.type.images))
     .pipe(connect.reload())
 });
 
@@ -121,6 +124,7 @@ gulp.task('copy-font', function () {
 
   return gulp.src(assets.src.font)
     .pipe(gulp.dest(paths.dist + paths.type.font))
+    .pipe(gulp.dest(paths.deploy + paths.type.font))
     .pipe(connect.reload())
 });
 
@@ -184,8 +188,6 @@ gulp.task('serve', ['compile', 'watch'], function (){});
  * Watch assets for changes.
  */
 gulp.task('watch', function () {
-  gulp.start('connect');
-
   // Watch our views
   watch(assets.src.views, function() {
     gulp.start('views');
@@ -204,11 +206,6 @@ gulp.task('watch', function () {
   // Watch our images
   watch(assets.src.images, function() {
     gulp.start('copy-images');
-  });
-
-  // Watch our data
-  watch(assets.src.sampleData, function() {
-    gulp.start('copy-data');
   });
 
   // Watch our font

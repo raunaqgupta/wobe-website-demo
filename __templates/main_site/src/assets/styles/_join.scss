@@ -15,7 +15,7 @@
 }
 
 .job-icon{
-  @media screen and (min-width: 995px) {
+  @media screen and (min-width: 995px){
     padding-right: 60px;
   }
   img{
@@ -29,9 +29,9 @@
 }
 
 .job-description{
-  & > div {
+  & > div{
     float: left;
-    @media screen and (min-width: 995px) {
+    @media screen and (min-width: 995px){
       width: 60%;
     }
   }

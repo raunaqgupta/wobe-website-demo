@@ -1,10 +1,38 @@
+.small-google-play{
+  text-align: center;
+  margin: -20px auto 42px;
+    img{
+      max-width: 120px;
+    }
+}
+.homepage{
+  .header-wrapper{
+    height: 424px;
+    @include desktop{
+      height: 748px;
+    }
+    &::after{
+      display: none;
+    }
+  }
+}
 .page-section{
   padding: 25px 0 31px;
   h2{
-    font-size: 24px;
+    font-size: 12px;
+    letter-spacing: 2.7px;
     margin: 0 0 30px;
     text-align: center;
     text-transform: uppercase;
+    @include tablet{
+      font-size: 24px;
+    }
+  }
+  h3{
+    font-size: 18px;
+    @include tablet{
+      font-size: 24px;
+    }
   }
 }
 
@@ -15,9 +43,9 @@
   position: absolute;
   transform: translate(-50%,0);
   .hero-image{
-    display: table-cell;
     width: auto;
-    @media screen and (min-width: 995px) {
+    @media screen and (min-width: 995px){
+      display: table-cell;
       width: 315px;
     }
     img{
@@ -47,7 +75,7 @@
   background: $purple;
   color: $white;
   padding: 50px 0;
-  .testimonials-items {
+  .testimonials-items{
     display: flex;
     flex-flow: center;
     margin: 0 0 20px;
@@ -57,7 +85,7 @@
     margin: 0 15px 0;
     img{
       height: 60px;
-      @media screen and (min-width: 995px) {
+      @media screen and (min-width: 995px){
         height: 100px;
       }
     }
@@ -85,3 +113,22 @@
   }
 }
 
+.logo-section{
+  background: $white;
+  text-align: center;
+  .logo-list{
+    @include desktop{
+      display: flex;
+      display: -webkit-flex;
+      -webkit-flex-direction: row;
+      flex-direction: row;
+      -webkit-align-items: center;
+      align-items: center;
+      -webkit-justify-content: center;
+      justify-content: center;
+    }
+  }
+  .logo-items{
+    padding: 20px 0;
+  }
+}

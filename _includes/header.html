@@ -1,8 +1,13 @@
 <div id="mobile-navbar" class="mobile-menu navmenu navmenu-default navmenu-fixed-left offcanvas">
   <ul class="nav navbar-nav">
+    <li><a href="/">Home</a></li>
     {% for my_page in site.pages %}
       {% if my_page.title %}
-        <li><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
+        {% if page.url == my_page.url %}
+          <li class="active"><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
+        {% else %}
+          <li><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
+        {% endif %}
       {% endif %}
     {% endfor %}
   </ul>
@@ -27,7 +32,7 @@
         <span class="sr-only">Wobe - Mobile &amp; finance tool to help you kickstart your own business.</span>
       </a>
     </div>
-    <div id="navbar" class="pull-right hidden-xs hidden-sm">
+    <div id="navbar" class="pull-right hidden-xs">
       <div class="row">
         <ul class="nav navbar-nav navbar-right menu-lang">
           <li class="indonesia"><a href="#">ID</a></li>
@@ -35,12 +40,11 @@
         </ul>
       </div>
       <div class="row">
-        <ul class="nav navbar-nav navbar-right">
-          {% for my_page in site.pages %}
-            {% if my_page.title %}
-              <li><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
-            {% endif %}
-          {% endfor %}
+        <ul class="nav navbar-nav navbar-right main-navigation">
+          <li><a href="{{ "/about" | prepend: site.baseurl }}">What is Wobe</a></li>
+          <li><a href="{{ "/join" | prepend: site.baseurl }}">Join Wobe</a></li>
+          <li><a href="{{ "/contact" | prepend: site.baseurl }}">Contact</a></li>
+          <li><a href="{{ "/berdaya" | prepend: site.baseurl }}">CSR</a></li>
         </ul>
       </div>
     </div><!--/.nav-collapse -->
