@@ -3,7 +3,7 @@ require 'dotenv'
 Dotenv.load
 
 task 'deploy' do
-  ignored_files = %w(env.sample README.md Rakefile Gemfile Gemfile.lock . ..)
+  ignored_files = %w(env.sample README.md Rakefile Gemfile Gemfile.lock Vagrantfile vsetup.sh . ..)
 
   Rake::Task['build'].invoke
 
