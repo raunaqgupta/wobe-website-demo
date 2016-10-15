@@ -29,7 +29,7 @@ We partner with community and commercial partners like co-ops, micro-finance and
 
 ![Screenshot 3](/assets/images/PlayStore_03.png "Screenshot 3")
 
-![Screenshot 4](/assets/images/PlayStore_01.png "Screenshot 4")
+![Screenshot 4](/assets/images/PlayStore_04.png "Screenshot 4")
 
 
 ## FAQ
