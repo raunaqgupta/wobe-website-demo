@@ -7,9 +7,7 @@ intro_text:
 permalink: /contact/
 ---
 
-This is the content that can be found on `contact.md` file on the root location.
-
-<form>
+<form action="https://formspree.io/website@wobe.io" method="POST">
   <div class="form-group">
     <label for="form-name" class="sr-only">Name</label>
     <input class="form-control" id="form-name" name="form-name" placeholder="Name" />
