@@ -6,8 +6,7 @@ layout: internal
   <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
   <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-  <p class="excerpt">{{ post.excerpt }}</p>
-  <p class="readmore"><a class="read-more-link" href="{{ post.url | prepend: site.baseurl }}">Read more</a></p>
+  <p class="excerpt">{{ post.content }}</p>
 
   <hr>
 {% endfor %}
