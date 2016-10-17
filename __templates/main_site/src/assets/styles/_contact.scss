@@ -24,11 +24,15 @@
   background: $white;
   padding: 100px 0;
   form{
-    background: url("../images/icon-mail.png") no-repeat left top;
+    background: url("../images/icon-mail.png") no-repeat center top;
     background-size: 66px;
     margin: 0 auto;
-    padding-left: 88px;
-    width: 692px;
+    padding: 88px 0 0 0;
+    @media screen and (min-width: 767px){
+      background-position: left top;
+      padding: 0 0 0 88px;
+      max-width: 692px;
+    }
   }
   textarea{
     height: 180px;

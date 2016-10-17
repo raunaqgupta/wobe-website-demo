@@ -16,6 +16,9 @@
     li{
       font-size: 20px;
       margin: 0 25px;
+      @include tablet{
+        margin: 0 20px;        
+      }
       @include desktop{
         margin: 0 27px;
       }
