@@ -1,15 +1,10 @@
 <div id="mobile-navbar" class="mobile-menu navmenu navmenu-default navmenu-fixed-left offcanvas">
   <ul class="nav navbar-nav">
-    <li><a href="/">Home</a></li>
-    {% for my_page in site.pages %}
-      {% if my_page.title %}
-        {% if page.url == my_page.url %}
-          <li class="active"><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
-        {% else %}
-          <li><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
-        {% endif %}
-      {% endif %}
-    {% endfor %}
+    <li><a href="{{ "/" | prepend: site.baseurl }}">Home</a></li>
+    <li><a href="{{ "/about" | prepend: site.baseurl }}">What is Wobe</a></li>
+    <li><a href="{{ "/blog" | prepend: site.baseurl }}">Blog</a></li>
+    <li><a href="{{ "/join" | prepend: site.baseurl }}">Join Wobe</a></li>
+    <li><a href="{{ "/contact" | prepend: site.baseurl }}">Contact</a></li>
   </ul>
   <ul class="nav navbar-nav menu-lang">
     <li class="indonesia"><a href="#">Indonesia</a></li>
