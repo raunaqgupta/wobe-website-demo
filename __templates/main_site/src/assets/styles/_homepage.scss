@@ -77,11 +77,13 @@
   padding: 50px 0;
   .testimonials-items{
     display: flex;
-    flex-flow: center;
+    display: -webkit-flex;
+    flex-flow: row nowrap;
     margin: 0 0 20px;
   }
   .image-wrapper{
-    display: inline-flex;
+    flex: 1 0 auto;
+    -webkit-flex: 1 0 auto;
     margin: 0 15px 0;
     img{
       height: 60px;
@@ -91,7 +93,6 @@
     }
   }
   .description-wrapper{
-    display: inline-flex;
     p{
       line-height: 1.5;
     }

@@ -1,10 +1,20 @@
 ---
 layout: page-join
 title: Join Wobe
-subtitle: PAGE SUBTITLE
-intro_title: CREATE A WORLD THAT INSPIRES HUMAN CONNECTION
-intro_text: No global movement springs from individuals. It takes an entire team united behind something big. Together, we work hard, we laugh a lot, we brainstorm nonstop, we use hundreds of Post-Its a week, and we give the best high-fives in town.
+subtitle: Wobe Careers
+intro_title: Be part of the fastest-growing startup family in Indonesia
+intro_text: We're always looking for the right people to join our award-winning startup. Whether you join as an agent, ambassador or as an Wobe employee, you are guaranteed to have a fun time while learning a lot with us on the job.
 permalink: /join/
 ---
 
-This is the content that can be found on `join.md` file on the root location. The other variables are located at `_layout/page-join.html`.
+## For Agents and Ambassadors
+Have you always wanted to have a suitable job that fits your time and busy schedule? Being a Wobe agent and ambassador would be perfect for you!
+
+As our ambassador, you will get to host arisans and events to feature Wobe while getting paid for your social prowess.
+
+As an agent, you will get access to our easy to use Android app where you can start selling pulsa right away!
+
+Download our app here and drop us a message inside on why you think you will be the perfect ambassador or agent for us.
+
+## Wobe Careers
+Those of you who are ready for the next step in your careers, you are welcome to apply to our jobs below!

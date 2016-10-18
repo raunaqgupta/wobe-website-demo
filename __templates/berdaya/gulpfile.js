@@ -184,7 +184,7 @@ gulp.task('serve', ['compile', 'watch'], function (){});
  * Watch assets for changes.
  */
 gulp.task('watch', function () {
-  gulp.start('connect');
+  // gulp.start('connect');
 
   // Watch our views
   watch(assets.src.views, function() {
