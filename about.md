@@ -7,13 +7,9 @@ intro_text: Wobe is an innovative approach to financial inclusion. Our award-win
 permalink: /about/
 ---
 
-Wobe was developed by a team of technological, community and financial specialists brought together by a love for Indonesia. We are a fintech startup based in Jakarta, Indonesia, where we have been building solutions for the communities around us.
+Wobe is a fintech startup based in Jakarta, Indonesia, where we have been building solutions for the communities around us for more than a year now. We are a group of technological, community and financial specialists brought together by a love for Indonesia. We believe in local solutions for global issues, and here you'll find our razor focus on Indonesia helps us do this one thing well: be effective and successful in Indonesia.
 
-In 2015, we graduated Ideabox accelerator as top of class out of 7 startups.
-
-Now, we are taking our vision to all of  Indonesia.
-
-We believe in local solutions for global issues, and here you'll find our razor focus on Indonesia helps us do this one thing well: be effective and successful in Indonesia.
+In 2015, we graduated [Ideabox accelerator](http://ideabox.co.id) as top of our class out of 7 startups, picking up several international awards along the way. Now, we are taking our vision to all of Indonesia.
 
 ## How Wobe Works
 
