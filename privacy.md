@@ -72,7 +72,7 @@ Our Site may contains links to other websites. This privacy policy only applies 
 
 If Wobe's business is sold or integrated with another business your details may be disclosed to our advisers and any prospective purchasers and their advisers and will be passed on to the new owners of the business.  
 
- ### 10. CHANGES TO PRIVACY POLICY
+### 10. CHANGES TO PRIVACY POLICY
 
 We keep our privacy policy under regular review. If we change our privacy policy we will post the changes on this page, and place notices on other pages of the Site, so that you may be aware of the information we collect and how we use it at all times. This privacy policy was last updated on 18th day of October 2016.  
 
