@@ -18,12 +18,15 @@ Wobe provides income-generating opportunities to anyone in Indonesia. We do this
 We partner with community and commercial partners like co-ops, micro-finance and non-profits as well as roll out own launch events in order to reach places and women outside of Jakarta.
 
 **Anyone with an Android smartphone can download Wobe app**
+
 ![Screenshot 1](/assets/images/PlayStore_01.png "Screenshot 1")
 
 **After signing up with their Facebook account, they can start selling phone airtime right away.**
+
 ![Screenshot 2](/assets/images/PlayStore_02.png "Screenshot 2")
 
 **Phone airtime is delivered over the air to the recipient, Wobe agent collects cash as payment.**
+
 ![Screenshot 4](/assets/images/PlayStore_04.png "Screenshot 4")
 
 
