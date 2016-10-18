@@ -2,7 +2,7 @@
 layout: page-about
 title: What is Wobe?
 subtitle: About Wobe
-intro_title: Providing employment to any woman who needs one
+intro_title: Providing income to anyone who needs one
 intro_text: Wobe is an innovative approach to financial inclusion. Our award-winning mobile app puts the power of self-employment in the hands of anyone in Indonesia with an Android phone. We work closely within communities and with community partners to roll out Wobe to the people who need it most.
 permalink: /about/
 ---
