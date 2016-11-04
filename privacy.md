@@ -9,19 +9,19 @@ permalink: /privacy-policy/
 
 # KEBIJAKAN KERAHASIAAN WOBE
 
-Wobe Pte. Ltd. dan jaringan usahanya seperti PT Wobe Teknologi (“Wobe”) menganggap kerahasiaan anda dengan serius. Kami meminta kepada anda untuk membaca kebijakan kerahasiaan ini (“Kebijakan”) dengan hati-hati karena memuat informasi penting mengenai data pribadi yang akan dikumpulkan oleh Wobe dan bagaimana Wobe nantinya akan mempergunakan data pribadi anda.
+Wobe Pte. Ltd. dan jaringan usahanya seperti PT Wobe Teknologi Utama (“Wobe”) menganggap kerahasiaan anda dengan serius. Kami meminta kepada anda untuk membaca kebijakan kerahasiaan ini (“Kebijakan”) dengan hati-hati karena memuat informasi penting mengenai data pribadi yang akan dikumpulkan oleh Wobe dan bagaimana Wobe nantinya akan mempergunakan data pribadi anda.
 
 Kebijakan ini berlaku terhadap informasi yang kami kumpulkan dari wobe.io, dan jaringan domain-domainnya dan aplikasi mobile Wobe dan aplikasi lain terkait dengan:
 
 * Pengunjung situs kami (“Situs”); dan
 * Orang yang mendaftar untuk menggunakan aplikasi mobile kami (“Layanan”); dan
 * Orang yang mendaftar akun *email* dan jejaring sosial dengan kami; dan
-* Orang yang menghubungi kami melalui email atau formulir kontak atau obrolan; dan 
+* Orang yang menghubungi kami melalui *email* atau formulir kontak atau obrolan; dan 
 
 
 ### INFORMASI YANG DIKUMPULKAN DARI SELURUH PENGUNJUNG SITUS KAMI
 
-Kami akan mendapatkan data pribadi anda pada saat anda mengunjungi kami. Pada saat anda mengunjungi kami, kami dapat memantau penggunaan dari Situs ini melalui penggunaan cookies dan peralatan pencarian lainnya. Sebagai contoh, kami dapat memantau berapa kali anda mengunjungi situs kami atau halaman mana yang anda tuju. Informasi ini membantu kami untuk membuat karakter dari pengguna. Beberapa data nantinya akan dikumpulkan atau dibuat secara statistik, yang artinya kami nantinya tidak akan dapat mengetahui anda secara perorangan.
+Kami akan mendapatkan data pribadi anda pada saat anda mengunjungi kami. Pada saat anda mengunjungi kami, kami dapat memantau penggunaan dari situs ini melalui penggunaan *cookies* dan peralatan pencarian lainnya. Sebagai contoh, kami dapat memantau berapa kali anda mengunjungi situs kami atau halaman mana yang anda tuju. Informasi ini membantu kami untuk membuat karakter dari pengguna. Beberapa data nantinya akan dikumpulkan atau dibuat secara statistik, yang artinya kami nantinya tidak akan dapat mengetahui anda secara perorangan.
 
 
 
@@ -33,21 +33,21 @@ Pada saat anda mendaftarkan *email* anda kepada kami, kami dapat mempergunakanny
 
 * kontak anda terkait dengan permintaan bantuan yang dimintakan oleh anda.
 
-Apabila anda setuju, kami untuk menyediakan hal tersebut kepada anda, anda dapat senantiasa untuk mengundurkan diri dikemudian hari. Apabila anda memilih untuk tidak menerima informasi tersebut, harap kirimkan kami pesan *email* kosong kepada privacy@wobe.io.
+Apabila anda setuju, kami untuk menyediakan hal tersebut kepada anda, anda dapat senantiasa untuk mengundurkan diri di kemudian hari. Apabila anda memilih untuk tidak menerima informasi tersebut, harap kirimkan kami pesan *email* kosong kepada privacy@wobe.io.
 
-Dengan mendaftarkan *email* anda, anda setuju untuk mengunakan email tersebut sebagaimana yang tercantum dalam Kebijakan ini.
+Dengan mendaftarkan *email* anda, anda setuju untuk mengunakan *email* tersebut sebagaimana yang tercantum dalam Kebijakan ini.
 
 
 ### INFORMASI YANG DIPEROLEH DARI APLIKASI *MOBILE* WOBE
 
 Pada saat anda mendaftarkan Layanan, anda mendaftarkan informasi yang disediakan kepada kami melalui Facebook. Kami selalu membuat permintaan dari beragam persetujuan Android sebagaimana tercantum didalam proses instalasi.
 
-Kami mungkin dapat mengumpulkan informasi tambahan seperti nama, alamat, email, telepon, tanggal lahir, jenis kelamin dan dokumen identitas tambahan lainnya.
+Kami mungkin dapat mengumpulkan informasi tambahan seperti nama, alamat, *email*, telepon, tanggal lahir, jenis kelamin dan dokumen identitas tambahan lainnya.
 
 
 ### DATA PEMBAYARAN
 
-Pada saat melakukan pembayaran Layanan, kami akan mengumpulkan informasi yang terkait dengan pembayaran seperti nomor rekening bank, informasi kartu kredit, data transaksi dan data lain yang diperlukan untuk verifikasi metode pembayaran yang anda gunakan. Kami dapat menahan informasi. Kami tidak akan membagi informasi tersebut kepada siapapun.
+Pada saat melakukan pembayaran Layanan, kami akan mengumpulkan informasi yang terkait dengan pembayaran seperti nomor rekening bank, informasi kartu kredit, data transaksi dan data lain yang diperlukan untuk verifikasi metode pembayaran yang anda gunakan. Kami dapat menahan informasi. Kami tidak akan membagi informasi tersebut kepada siapa pun.
 
 ### PENGGUNAAN INFROMASI
 
@@ -67,7 +67,7 @@ Kami dapat menggunakan informasi untuk kepentingan:
 
 ### PENGGUNAAN *COOKIES* OLEH KAMI
 
-*Cookies* adalah serangkaian teks yang terdapat dalam komputer anda untuk mengumpulkan informasi standar penggunaan internet dan informasi kebiasaan pengunjung. Informasi yang dipergunakan untuk melacak pengguna dari situs dan mengabungkan laporan statistik dari aktifitas Situs. Untuk informasi lebih lanjut terkait dengan *cookies* dapat mengunjungi www.aboutcookies.org atau www.allaboutcookies.org. Anda dapat mengatur laman anda agar tidak menerima *cookies* dan terhadap situs tersebut akan memberitahukan kepada anda bagaimana cara menghapuskan *cookies* dari laman anda. Akan tetapi, dalam beberapa kasus beberapa kegunaan yang terdapat dalam Situs kami tidak dapat dipergunakan apabila anda menghapuskan cookies dari laman anda.
+*Cookies* adalah serangkaian teks yang terdapat dalam komputer anda untuk mengumpulkan informasi standar penggunaan internet dan informasi kebiasaan pengunjung. Informasi yang dipergunakan untuk melacak pengguna dari situs dan mengabungkan laporan statistik dari aktivitas situs. Untuk informasi lebih lanjut terkait dengan *cookies* dapat mengunjungi www.aboutcookies.org atau www.allaboutcookies.org. Anda dapat mengatur laman anda agar tidak menerima *cookies* dan terhadap situs tersebut akan memberitahukan kepada anda bagaimana cara menghapuskan *cookies* dari laman anda. Akan tetapi, dalam beberapa kasus beberapa kegunaan yang terdapat dalam situs kami tidak dapat dipergunakan apabila anda menghapuskan *cookies* dari laman anda.
 
 
 ### BAGAIMANA KAMI MELINDUNGI INFORMASI
@@ -103,9 +103,9 @@ Dalam hal usaha Wobe dijual atau bergabung dengan usaha lainnya, rincian mengana
 
 ### PERUBAHAN KEBIJAKAN KERAHASIAAN
 
-Kami akan tetap menjaga kebijakan kerahasiaan kami tetap dikaji secara rutin. Apabila kami mengganti kebijakan kerahasiaan kami, kami akan mencantumkan perubahannya di halaman ini dan menaruh peringatan di halaman lain dari Situs, sehinggan anda dapat mengetahui mengenai informasi yang kami kumpulkan dan bagaimana kami mempergunakannya sepanjang waktu. Kebijakan kerahasiaan ini diperbaharui terakhir pada 19 Oktober 2016.
+Kami akan tetap menjaga kebijakan kerahasiaan kami tetap dikaji secara rutin. Apabila kami mengganti kebijakan kerahasiaan kami, kami akan mencantumkan perubahannya di halaman ini dan menaruh peringatan di halaman lain dari situs, sehinggan anda dapat mengetahui mengenai informasi yang kami kumpulkan dan bagaimana kami mempergunakannya sepanjang waktu. Kebijakan kerahasiaan ini diperbaharui terakhir pada 19 Oktober 2016.
 
 
 ### HUBUNGI KAMI
 
-Kami menyambut setiap pandangan terhadap Situs, Layanan dan Kebijakan ini. Apabila anda berkeinginan untuk menghubungi kami dengan menyampaikan pertanyaan atau komentar silahkan mengirimkan email ke kepada privacy@wobe.io atau mengirimkan surat kepada PT Wobe Teknologi Utama, Jalan AM Sangaji no. 15 B.5, kelurahan Petojo Utara, Kecamatan Gambir, Jakarta 10130, Indonesia.
+Kami menyambut setiap pandangan terhadap situs, Layanan dan Kebijakan ini. Apabila anda berkeinginan untuk menghubungi kami dengan menyampaikan pertanyaan atau komentar silahkan mengirimkan *email* ke kepada privacy@wobe.io atau mengirimkan surat kepada PT Wobe Teknologi Utama, Jalan AM Sangaji no. 15 B.5, kelurahan Petojo Utara, Kecamatan Gambir, Jakarta 10130, Indonesia.
