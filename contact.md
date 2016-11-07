@@ -13,8 +13,12 @@ permalink: /contact/
     <input class="form-control" id="form-name" name="form-name" placeholder="Name" />
   </div>
   <div class="form-group">
-    <label for="form-email" class="sr-only">Name</label>
+    <label for="form-email" class="sr-only">Email</label>
     <input class="form-control" id="form-email" name="form-email" placeholder="Email" />
+  </div>
+  <div class="form-group">
+    <label for="form-phone" class="sr-only">Phone</label>
+    <input class="form-control" id="form-phone" name="form-phone" placeholder="Phone number" />
   </div>
   <div class="form-group">
     <label for="form-message" class="sr-only">Name</label>
