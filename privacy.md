@@ -1,89 +1,111 @@
 ---
 layout: page
-title: Privacy Policy
+title: Kebijakan Kerahasiaan
 subtitle:
 intro_title:
 intro_text:
 permalink: /privacy-policy/
 ---
 
-# Wobe Privacy Policy (English)
+# KEBIJAKAN KERAHASIAAN WOBE
 
-Wobe Pte Ltd and its subsidiaries such as PT Wobe Teknologi (“Wobe”) takes your privacy very seriously. We ask that you read this privacy policy (the “Policy”) carefully as it contains important information about what to expect when Wobe collects personal information about you and how Wobe will use your personal data.
-This Policy applies to information we collect on wobe.io, wobe.id, its sub-domains and the Wobe mobile app and related platforms about:
+Wobe Pte. Ltd. dan jaringan usahanya seperti PT Wobe Teknologi Utama (“Wobe”) menganggap kerahasiaan anda dengan serius. Kami meminta kepada anda untuk membaca kebijakan kerahasiaan ini (“Kebijakan”) dengan hati-hati karena memuat informasi penting mengenai data pribadi yang akan dikumpulkan oleh Wobe dan bagaimana Wobe nantinya akan mempergunakan data pribadi anda.
 
-* visitors to our website (the “Site”); and
-* people who register to use our mobile application (the “Service”); and
-* people who register their emails and social media accounts with us; and
-* people who contact us through email or contact forms or chat; and
+Kebijakan ini berlaku terhadap informasi yang kami kumpulkan dari wobe.io, dan jaringan domain-domainnya dan aplikasi mobile Wobe dan aplikasi lain terkait dengan:
 
-### INFORMATION COLLECTED FROM ALL VISITORS TO OUR WEBSITE
-
-We will obtain personal data about you when you visit us. When you visit us, we may monitor the use of this Site through the use of cookies and similar tracking devices. For example, we may monitor the number of times you visit our Site or which pages you go to. This information helps us to build a profile of our users. Some of this data will be aggregated or statistical, which means that we will not be able to identify you individually.
-
-### INFORMATION COLLECTED FROM USERS WHO REGISTER THEIR EMAILS WITH US
-
-When you register your emails with us, we may use it for the following:
-
-* to send you newsletters, contact you about products, services and offers we think may be of interest to you.
-* to contact you regarding support requests initiated by you
-
-If you agree to us providing you with these information, you can always opt out at a later date. If you would rather not receive these information, please send a blank email message to privacy@wobe.io.
-
-By submitting your email you consent to the use of that email as set out in this policy.
-
-### INFORMATION COLLECTED THROUGH WOBE MOBILE APPLICATION
-
-When you register with the Service, you are submitting to us the information provided to us via Facebook. We also make requests for various Android permissions as set out by the installation process.
-We may collect additional information such as your name, address, email, telephone number, date of birth, gender and additional identity documents.
-
-### PAYMENT DATA
-
-When paying for the Service we will collect information required to process the payment such as bank account details, credit card information, transaction data and other data required to verify your payment method.  We may retain this information indefinitely.  We do not share this information with anyone.
-
-### USE OF INFORMATION
-
-We may use this information for the following:
-
-* to provide the Service to you
-* to manage the Service
-* to contact you about occasional marketing offers relating to Wobe
-* to provide you with customized services based on your usage patterns
-* to provide customer support to you when requested
+* Pengunjung situs kami (“Situs”); dan
+* Orang yang mendaftar untuk menggunakan aplikasi mobile kami (“Layanan”); dan
+* Orang yang mendaftar akun *email* dan jejaring sosial dengan kami; dan
+* Orang yang menghubungi kami melalui *email* atau formulir kontak atau obrolan; dan 
 
 
-### OUR USE OF COOKIES
+### INFORMASI YANG DIKUMPULKAN DARI SELURUH PENGUNJUNG SITUS KAMI
 
-Cookies are text files placed on your computer to collect standard Internet log information and visitor behaviour information. The information is used to track visitor use of the Site and to compile statistical reports on Site activity. For further information about cookies visit www.aboutcookies.org or www.allaboutcookies.org. You can set your browser not to accept cookies and the above websites tell you how to remove cookies from your browser. However, in a few cases some of our Site features may not function if you remove cookies from your browser.
+Kami akan mendapatkan data pribadi anda pada saat anda mengunjungi kami. Pada saat anda mengunjungi kami, kami dapat memantau penggunaan dari situs ini melalui penggunaan *cookies* dan peralatan pencarian lainnya. Sebagai contoh, kami dapat memantau berapa kali anda mengunjungi situs kami atau halaman mana yang anda tuju. Informasi ini membantu kami untuk membuat karakter dari pengguna. Beberapa data nantinya akan dikumpulkan atau dibuat secara statistik, yang artinya kami nantinya tidak akan dapat mengetahui anda secara perorangan.
 
-### HOW WE PROTECT YOUR INFORMATION
 
-We are committed to maintaining the security of personal information. We have put in place appropriate security procedures and technical and organisational measures to safeguard your personal information such as securing your data through encryption technologies and routinely performing security audits.
 
-### ACCESS TO YOUR INFORMATION AND UPDATING AND CORRECTING YOUR INFORMATION
+### INFORMASI YANG DIKUMPULKAN DARI PENGGUNA YANG MENDAFTARKAN *EMAIL* KEPADA KAMI
 
-Subject to the exceptions referred to in section 21(2) of the Personal Data Protection Act 2012 (No. 26 of 2012) of Singapore (“PDPA”), you have the right to request a copy of the information that we hold about you. If you would like a copy of some or all of your personal information, please send an email to privacy@wobe.io or send a letter to Wobe Pte Ltd, 71 Ayer Rajah Crescent #06-11 Singapore Singapore 139951. We may make a small charge for this service.
+Pada saat anda mendaftarkan *email* anda kepada kami, kami dapat mempergunakannya untuk:
 
-### ACCURACY AND CHANGE OF INFORMATION
+* untuk mengirim kepada anda sayembara, kontak terkait produk, jasa, dan penawaran yang kami pikir sesuai dengan ketertarikan anda.
 
-You must only submit information which is accurate, complete and not misleading.  You must keep up to date the information you submit to us and inform us of changes. We reserve the right to request for documentation to verify the information provided by you.
-We want to ensure that your personal information is accurate and up to date. If any of the information that you have provided to Wobe changes, for example if you change your email address, name or payment details, or if you wish to cancel your registration, please let us know the correct details by sending an email to privacy@wobe.io or by sending a letter to Wobe Pte Ltd at 71 Ayer Rajah Crescent #06-11 Singapore 139951. You may ask us, or we may ask you, to correct information you or we think is inaccurate, and you may also ask us to remove information which is inaccurate.
+* kontak anda terkait dengan permintaan bantuan yang dimintakan oleh anda.
 
-### NON-DISCLOSURE
+Apabila anda setuju, kami untuk menyediakan hal tersebut kepada anda, anda dapat senantiasa untuk mengundurkan diri di kemudian hari. Apabila anda memilih untuk tidak menerima informasi tersebut, harap kirimkan kami pesan *email* kosong kepada privacy@wobe.io.
 
-We do not sell, trade, or otherwise transfer to third parties your personally identifiable information.  This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, as long as these parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours and others’ rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+Dengan mendaftarkan *email* anda, anda setuju untuk mengunakan *email* tersebut sebagaimana yang tercantum dalam Kebijakan ini.
 
-### LINKS TO OTHER WEBSITES
 
-Our Site may contains links to other websites. This privacy policy only applies to this website so when you link to other websites you should read their own privacy policies.
+### INFORMASI YANG DIPEROLEH DARI APLIKASI *MOBILE* WOBE
 
-### SALE OF BUSINESS
+Pada saat anda mendaftarkan Layanan, anda mendaftarkan informasi yang disediakan kepada kami melalui Facebook. Kami selalu membuat permintaan dari beragam persetujuan Android sebagaimana tercantum didalam proses instalasi.
 
-If Wobe’s business is sold or integrated with another business your details may be disclosed to our advisers and any prospective purchasers and their advisers and will be passed on to the new owners of the business.
+Kami mungkin dapat mengumpulkan informasi tambahan seperti nama, alamat, *email*, telepon, tanggal lahir, jenis kelamin dan dokumen identitas tambahan lainnya.
 
-### CHANGES TO PRIVACY POLICY
 
-We keep our privacy policy under regular review. If we change our privacy policy we will post the changes on this page, and place notices on other pages of the Site, so that you may be aware of the information we collect and how we use it at all times. This privacy policy was last updated on 19th day of October 2016.
+### DATA PEMBAYARAN
 
-### HOW TO CONTACT US
-We welcome your views about our Site, Service and this privacy policy. If you would like to contact us with any queries or comments please send an email to privacy@wobe.io or send a letter to Wobe Pte Ltd at 71 Ayer Rajah Crescent #06-11 Singapore 139951.
+Pada saat melakukan pembayaran Layanan, kami akan mengumpulkan informasi yang terkait dengan pembayaran seperti nomor rekening bank, informasi kartu kredit, data transaksi dan data lain yang diperlukan untuk verifikasi metode pembayaran yang anda gunakan. Kami dapat menahan informasi. Kami tidak akan membagi informasi tersebut kepada siapa pun.
+
+### PENGGUNAAN INFROMASI
+
+Kami dapat menggunakan informasi untuk kepentingan:
+
+* untuk menyediakan Layanan kepada anda
+
+* untuk mengatur Layanan
+
+* untuk menghubungi anda terkait dengan penawaran yang terkait dengan Wobe
+
+* untuk menyediakan anda dengan Layanan yang disesuaikan dengan kebiasaan penggunaan anda
+
+* untuk menyediakan layanan kopnsumen pada saat dimintakan oleh anda
+
+
+
+### PENGGUNAAN *COOKIES* OLEH KAMI
+
+*Cookies* adalah serangkaian teks yang terdapat dalam komputer anda untuk mengumpulkan informasi standar penggunaan internet dan informasi kebiasaan pengunjung. Informasi yang dipergunakan untuk melacak pengguna dari situs dan mengabungkan laporan statistik dari aktivitas situs. Untuk informasi lebih lanjut terkait dengan *cookies* dapat mengunjungi www.aboutcookies.org atau www.allaboutcookies.org. Anda dapat mengatur laman anda agar tidak menerima *cookies* dan terhadap situs tersebut akan memberitahukan kepada anda bagaimana cara menghapuskan *cookies* dari laman anda. Akan tetapi, dalam beberapa kasus beberapa kegunaan yang terdapat dalam situs kami tidak dapat dipergunakan apabila anda menghapuskan *cookies* dari laman anda.
+
+
+### BAGAIMANA KAMI MELINDUNGI INFORMASI
+
+Kami berkomitmen untuk menjaga keamanan data pribadi. Kami mempergunakan prosedur pengamanan dan teknis dan pengukuran organisasi untuk mengamankan data pribadi anda seperti dengan mempergunakan teknologi enkripsi dan secara berkala melakukan audit keamanan.
+
+
+### AKSES KEPADA INFORMASI ANDA DAN PEMBARUAN DAN PERBAIKAN TERHADAP INFORMASI ANDA
+
+Tunduk kepada pengecualian yang terdapat dalam pasal 21(2) dari Undang-Undang 2012 (No. 26 Tahun 2012) tentang Pengamanan Data Pribadi, anda memiliki hak untuk meminta salinan informasi mengenai anda yang berada pada kami. Apabila anda menginginkan salinan dari beberapa atau seluruh data pribadi anda, silahkan mengirimkan email kepada privacy@wobe.io atau mengirimkan surat kepada PT Wobe Teknologi Utama, Jalan AM Sangaji no. 15 B.5, kelurahan Petojo Utara, Kecamatan Gambir, Jakarta 10130, Indonesia. Kami  dapat melakukan sedikit perubahan terhadap layanan ini.
+
+### KETEPATAN DAN PERUBAHAN DARI INFORMASI
+
+Anda hanya harus mengajukan informasi yang akurat, lengkap dan tidak menyesatkan. Anda harus menjaga kekinian dari informasi setiap informasi yang anda ajukan kepada kami dan memberitahukan kepada kami apabila ada perubahan. Kami memiliki hak untuk meminta dokumen guna melakukan verifikasi terhadap informasi yang diajukan oleh anda.
+
+Kami ingin memastikan bahwa informasi pribadi anda adalah akurat dan terkini. Apabila ada informasi anda yang diberikan kepada Wobe berubah, sebagai contoh apabila anda merubah alamat *email*, nama atau rincian pembayaran, atau apabila anda mau membatalkan pendaftaran, beritahukan kepada kami rincian perbaikan dengan mengirimkan email kepada kepada privacy@wobe.io atau mengirimkan surat kepada PT Wobe Teknologi Utama, Jalan AM Sangaji no. 15 B.5, kelurahan Petojo Utara, Kecamatan Gambir, Jakarta 10130, Indonesia. Anda dapat meminta kepada kami, atau kami dapat meminta kepada anda untuk menghapuskan informasi yang tidak akurat.
+
+
+### KERAHASIAAN
+
+Kami tidak menjual, menukar, atau melakukan pertukaran dengan pihak ketiga terhadap data pribadi anda. Ini tidak termasuk pihak ketiga yang telah dipercaya untuk membantu kami menjalankan situs, melakukan usaha kami, atau melayani anda, selama pihak tersebut setuju untuk menyimpan informasi rahasia tersebut. Kami dapat menyebarkan informasi kepada kami percaya penyebaran tersebut sesuai dengan hukum yang berlaku, sesuai dengan kebijakan situs kami, atau melindungi hak kami atau orang lain, properti, dan keselamatan. Akan tetapi, informasi yang bukan bersifat pribadi perorangan pengunjung dapat kami sediakan kepada pihak ketiga untuk kepentingan pemasaran atau penggunaan lain.
+
+
+### JARINGAN KE SITUS LAINNYA
+
+Situs kami mungkin mencantumkan jejaring ke situs lainnya. Kebijakan ini hanya berlaku kepada situs ini, sehingga pada saat anda menuju situs lainnya, anda harus membaca kebijakan kerahasiaan dari situs lain tersebut.
+
+
+### PENJUALAN USAHA
+
+Dalam hal usaha Wobe dijual atau bergabung dengan usaha lainnya, rincian menganai anda akan dibuka kepada penasihat dan setiap pembeli potensial dan juga kepada penasihat mereka dan akan berlangsung kepada pemilik baru usaha.
+
+
+### PERUBAHAN KEBIJAKAN KERAHASIAAN
+
+Kami akan tetap menjaga kebijakan kerahasiaan kami tetap dikaji secara rutin. Apabila kami mengganti kebijakan kerahasiaan kami, kami akan mencantumkan perubahannya di halaman ini dan menaruh peringatan di halaman lain dari situs, sehinggan anda dapat mengetahui mengenai informasi yang kami kumpulkan dan bagaimana kami mempergunakannya sepanjang waktu. Kebijakan kerahasiaan ini diperbaharui terakhir pada 19 Oktober 2016.
+
+
+### HUBUNGI KAMI
+
+Kami menyambut setiap pandangan terhadap situs, Layanan dan Kebijakan ini. Apabila anda berkeinginan untuk menghubungi kami dengan menyampaikan pertanyaan atau komentar silahkan mengirimkan *email* ke kepada privacy@wobe.io atau mengirimkan surat kepada PT Wobe Teknologi Utama, Jalan AM Sangaji no. 15 B.5, kelurahan Petojo Utara, Kecamatan Gambir, Jakarta 10130, Indonesia.
