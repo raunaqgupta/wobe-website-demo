@@ -1,15 +1,19 @@
 ---
 layout: post
-title:  "Welcome to the brand new Wobe!"
+title:  "Wobe Terbaru Telah Hadir!"
 date:   2016-10-18 22:10:19 +0700
 categories:
 ---
+---
+layout: post
+title:  "Wobe Terbaru Telah Hadir!"
+date:   2016-10-18 22:10:19 +0700
+categories:
+---
+Dengan bangga kami mengumumkan, Wobe versi terbaru telah diluncurkan — semuanya serba baru!
 
-We're very proud to announce the launch of a brand new Wobe — we are brand new in every way.
+Situs kami yang baru menggambarkan komitmen kami untuk meningkatkan akses keuangan inklusif. Kami berusaha membuat prosesnya semudah mungkin. Siapapun yang memiliki ponsel Android, bahkan dengan tipe paling sederhana sekalipun, dapat berbisnis dengan berjualan pulsa dan produk digital lainnya. Masyarakat yang tinggal di sekitar agen Wobe juga ikut terbantu karena mereka memiliki agen yang menghubungkan mereka dengan pelayanan digital; dengan harga yang sesuai pasaran, tanpa harus repot menempuh jarak yang jauh.
 
-Our new website outlines our commitment to what we do: increasing access to financial inclusion. We do this by making it easy for anyone with a low end Android device to start a small business in selling phone airtime and other digital products. The communities they live in benefit from having agents who link them to digital services at market rates, without having to travel for those reloads.
+Aplikasi kami yang baru, kini tersedia untuk siapapun di Indonesia yang memiliki ponsel Android. Untuk bergabung, Anda hanya perlu mengunduh aplikasi Wobe di Play Store, kemudian lakukan pengisian saldo, lalu mulailah berjualan pulsa untuk semua operator seluler ke teman-teman maupun sanak keluarga.
 
-Our new app is now available to anyone in Indonesia with an Android device. To get started, agents simply have to download Wobe from the Play Store, put in some stored value (*saldo*), then start selling phone airtime from any operator to their friends and family.
-
-Over the coming weeks we will be sharing news about the Wobe community in different locations around Indonesia. We invite you to join the Wobe family — download our app, talk to us, or tell us what you think!
-
+Dalam beberapa minggu mendatang kami akan membagikan informasi mengenai komunitas Wobe di berbagai daerah di Indonesia. Kami mengundang Anda untuk bergabung dengan keluarga Wobe — unduh aplikasi Wobe, dan bila ada masukan atau kendala apapun, silakan hubungi kami.
