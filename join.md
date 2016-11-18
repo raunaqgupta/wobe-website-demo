@@ -1,20 +1,21 @@
 ---
 layout: page-join
-title: Join Wobe
-subtitle: Wobe Careers
-intro_title: Be part of the fastest-growing startup family in Indonesia
-intro_text: We're always looking for the right people to join our award-winning startup. Whether you join as an agent, ambassador or as an Wobe employee, you are guaranteed to have a fun time while learning a lot with us on the job.
+title: Bergabung dengan Wobe
+subtitle: Berkarir di Wobe
+intro_title: Jadilah bagian dari salah satu start-up dengan pertumbuhan tercepat di Indonesia!
+intro_text: Kami selalu mencari orang yang tepat untuk bergabung bersama kami. Anda dapat bergabung sebagai agen, Duta Wobe, maupun sebagai karyawan, apapun posisinya petualangan bersama kami pasti seru dan Anda pasti bisa belajar banyak sekali bersama kami.
 permalink: /join/
 ---
 
-## For Agents and Ambassadors
-Have you always wanted to have a suitable job that fits your time and busy schedule? Being a Wobe agent and ambassador would be perfect for you!
+## Untuk Agen dan Duta Wobe
+Apakah Anda ingin memiliki pekerjaan yang waktunya dapat Anda atur sendiri, atau dapat disesuaikan dengan jadwal Anda? Jadilah agen dan duta Wobe!
 
-As our ambassador, you will get to host arisans and events to feature Wobe while getting paid for your social prowess.
+Sebagai duta Wobe, Anda dapat menjadi tuan rumah arisan dan acara-acara lainnya untuk memperkenalkan aplikasi Wobe ke teman-teman dan keluarga. Anda dapat bersosialisasi sekaligus mendapatkan gaji.
 
-As an agent, you will get access to our easy to use Android app where you can start selling pulsa right away!
+Sebagai agen Wobe, Anda dapat langsung menggunakan apilkasi Android kami yang mudah digunakan, dan Anda pun dapat langsung mulai berjualan pulsa!
 
-Download our app here and drop us a message inside on why you think you will be the perfect ambassador or agent for us.
+Unduh aplikasi kami disini dan cantumkan alasan mengapa Anda cocok menjadi duta atau agen Wobe.
 
-## Wobe Careers
-Those of you who are ready for the next step in your careers, you are welcome to apply to our jobs below!
+## Berkarir di Wobe
+Bagi Anda yang siap untuk mengembangkan karir Anda, segera daftarkan diri Anda pada posisi-posisi ini!
+  
