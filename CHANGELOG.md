@@ -12,5 +12,5 @@
 
 ## 2016-11-20
 
-* New blog content in ID site
-* Changed date of post slug in ID site
+* ID site content revision
+* Updated nav titles in ID site
