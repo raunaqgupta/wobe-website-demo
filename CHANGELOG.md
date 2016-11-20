@@ -9,3 +9,8 @@
 * About, Contact, and Join page implemented, all using Liquid template variables.
 * Integrated CSR home page.
 * Mobile view adjustment (added logo).
+
+## 2016-11-20
+
+* New blog content in ID site
+* Changed date of post slug in ID site
