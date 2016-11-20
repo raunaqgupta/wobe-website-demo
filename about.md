@@ -2,109 +2,102 @@
 layout: page-about
 title: Apa itu Wobe?
 subtitle: Tentang Wobe
-intro_title: Memberikan kesempatan untuk semua orang yang ingin memiliki penghasilan tambahan
-intro_text: Wobe merupakan pendekatan inovatif untuk keuangan inklusif. Aplikasi kami yang telah mendapat beberapa penghargaan memfasilitasi setiap orang di Indonesia yang ingin berwirausaha menggunakan ponsel berbasis Android. Kami erat bekerjasama dengan berbagai macam komunitas dan dengan jaringan rekan komunitas yang juga akan mengidentifikasi serta memperluas pengguna Wobe kepada yang paling membutuhkan.
+intro_title: Memberikan pendapatan bagi mereka yang membutuhkan.
+intro_text: Wobe adalah pendekatan yang inovatif untuk keuangan inklusif. Aplikasi Wobe memungkinkan semua orang untuk menjadi wirausahawan, cukup dengan berbekal ponsel berbasis Android. Wobe bekerjasama dengan kelompok masyarakat dan mitra lokal untuk memperkenalkan Wobe ke mereka yang paling membutuhkan.
 permalink: /about/
 ---
 
-Wobe adalah startup teknologi di bidang finansial berbasis di Jakarta, Indonesia, dimana kami membuat solusi untuk komunitas di sekitar kami, yang kini sudah berjalan lebih dari setahun. Kami merupakan sekelompok penggiat teknologi, bagian dari komunitas dan spesialis di bidang finansial yang disatukan oleh rasa cinta akan Indonesia. Kami memiliki keyakinan pada solusi lokal untuk permasalahan global, dan disini Anda akan menemukan keruncingan fokus kami di Indonesia yang akan menjadi pedoman kami untuk melakukan hal berikut dengan baik, yaitu: efektif dan sukses di Indonesia.
+Wobe adalah bisnis teknologi finansial yang berbasis di Jakarta, Indonesia. Selama lebih dari setahun terakhir, kami telah mengembangkan solusi bagi masyarakat di sekitar kami. Kami adalah sekelompok pakar teknologi, keuangan, dan komunitas yang dipersatukan oleh kecintaan kami pada Indonesia. Kami menyadari pentingnya solusi lokal untuk menangani isu-isu global. Indonesia adalah fokus utama Wobe, dan inilah yang akan menjadi kunci utama kami untuk meraih keberhasilan di Indonesia.
 
-Tahun 2015, kami lulus dari [Ideabox accelerator](http://ideabox.co.id) sebagai salah satu yang terbaik dari 7 startup lain, meraih beberapa penghargaan internasional sepanjang perjalanan tersebut. Sekarang, kami melanjutkan visi kami untuk seluruh Indonesia.
+Pada 2015, kami memenangkan kompetisi di [Ideabox accelerator](http://ideabox.co.id) dan menyisihkan 7 startup lainnya. Kami juga telah mendapatkan berbagai penghargaan internasional. Saat ini, kami berusaha untuk menyebarkan visi kami ke seluruh Indonesia.
 
+## Bagaimana cara Wobe membantu Anda
 
-## Bagaimana Wobe Bekerja
+Wobe memberikan peluang bagi siapa saja di Indonesia untuk mendapat penghasilan tambahan. Siapapun yang memiliki ponsel, dapat dengan mudah berjualan pulsa prabayar. Saat ini kami baru tersedia di ponsel Android.
 
-Wobe menyediakan kesempatan menghasilkan pendapatan tambahan kepada semua orang di Indonesia. Kami melakukannya dengan menyediakan akses yang mudah untuk menjual airtime telepon atau lebih dikenal dengan pulsa. Kami mengawalinya dengan perangkat-ponsel cerdas (smartphone) berbasis Android.
+Kami bekerja sama dengan komunitas dan mitra lokal, seperti koperasi, lembaga keuangan mikro, dan organisasi nirlaba. Kami juga menggelar acara peluncuran dengan tujuan memperkenalkan Wobe kepada perempuan-perempuan di seluruh pelosok daerah di Indonesia.
 
-Kami membangun relasi dengan komunitas dan juga mitra komersial seperti koperasi, lembaga keuangan mikro dan organisasi nirlaba yang akan diselaraskan dengan acara peluncuran kami yang akan menjangkau banyak wilayah dan perempuan terutama di luar Jakarta.
-
-**Siapapun dengan ponsel pintar (smartphone) Android dapat mengunduh aplikasi Wobe**
+**Siapapun dengan ponsel Android dapat mengunduh aplikasi Wobe**
 
 ![Screenshot 1](/assets/images/PlayStore_01.png "Screenshot 1")
 
-**Setelah mendaftar menggunakan akun facebook, semua dapat langsung memulai berjualan pulsa**
+**Setelah melakukan registrasi dengan akun Facebook, Anda dapat langsung mulai berjualan pulsa.**
 
 ![Screenshot 2](/assets/images/PlayStore_02.png "Screenshot 2")
 
-**Ketika pulsa telah diterima pelanggan, agen Wobe menerima uang tunai sebagai pembayaran**
+**Pulsa akan langsung dikirimkan ke pembeli. Agen Wobe tinggal menerima uang tunai dari pembeli sebagai pembayaran pulsa tersebut.**
 
 ![Screenshot 4](/assets/images/PlayStore_04.png "Screenshot 4")
 
 
-## FAQ
+
+## Pertanyaan-Pertanyaan Mengenai Wobe
 1. [Apa itu Wobe?](#what)
-2. [Kenapa saya harus menggunakan Wobe?](#why)
-3. [Apa yang saya perlukan untuk mulai menggunakan Wobe?](#reqs)
+2. [Mengapa saya harus menggunakan Wobe?](#why)
+3. [Apa saja yang saya butuhkan untuk berbisnis dengan Wobe?](#reqs)
 4. [Apakah Wobe hanya untuk perempuan?](#women)
 5. [Bagaimana cara menggunakan Wobe?](#how)
-6. [Dimana saya bisa mengunduh Wobe?](#download)
-7. [Berapa jumlah uang yang dibutuhkan untuk memulai deposit?](#start)
-8. [Bagaimana cara melakukan deposit saldo?](#deposit)
-9. [Apakah pulsa satu-satunya produk yang bisa saya jual melalui Wobe?](#pulsa)
-10. [Adakah cara lain yang bisa saya lakukan untuk bergabung untuk Wobe?](#careers)
-
-
-## Apa itu Wobe? <a name="what">
-
-Wobe adalah sebuah aplikasi bergerak (mobile) yang memudahkan semua orang yang menggunakan ponsel Android memulai usaha dengan berjualan pulsa dan kemudian produk digital lainnya.
-
-
-### Kenapa saya harus menggunakan Wobe? <a name="why">
-
-Wobe adalah aplikasi yang ramah terhadap penggunanya dan dapat diandalkan. Aplikasi Wobe juga memudahkan untuk mendapatan penghasilan tambahan untuk Anda dan keluarga. Dengan menjual produk yang dibutuhkan oleh semua orang, seperti pulsa, Anda dapat memulai bisnis untuk memberikan lebih untuk yang Anda cintai.
-
-
-#### Apa yang saya perlukan untuk mulai menggunakan Wobe <a name="res">
+6. [Dimana saya dapat mengunduh Wobe?](#download)
+7. [Berapa jumlah minimum untuk saldo awal?](#start)
+8. [Bagaimana cara menambahkan saldo?](#deposit)
+9. [Apakah saya hanya bisa berjualan pulsa?](#pulsa)
+10. [Apakah ada cara lain untuk bergabung dengan Wobe?](#careers)
 
 Semua yang Anda butuhkan adalah ponsel pintar yang menggunakan sistem Android 4.3+. Anda juga harus memliki koneksi internet, lebih disarankan langsung dari kartu sim ponsel. Anda juga harus mendaftarkan nomor telepon Indonesia dan akun Facebook.
 
+### Apa itu Wobe? <a name="what">
+
+Wobe adalah aplikasi mobile yang memungkinkan siapapun dengan ponsel Android untuk memulai usaha dengan cara menjual pulsa. Kedepannya, Wobe juga akan menyediakan produk dan fitur pembayaran lainnya.
+
+### Mengapa saya harus menggunakan Wobe? <a name="why">
+
+Wobe mudah digunakan dan terpercaya. Dengan Wobe, mendapatkan penghasilan tambahan bagi Anda dan keluarga menjadi semakin mudah. Dengan menjual produk yang mudah laris, seperti pulsa ponsel, Anda dapat dengan cepat memperoleh pemasukan tambahan yang bisa digunakan untuk mencukupi kebutuhan orang-orang yang Anda sayangi.
+
+### Apa saja yang saya butuhkan untuk berbisnis dengan Wobe? <a name="res">
+
+Yang Anda butuhkan hanyalah ponsel Android minimal versi 4.3 lengkap dengan koneksi internet, lebih baik jika koneksi berasal dari sim-card Anda. Selain itu, Anda juga membutuhkan nomor ponsel Indonesia dan akun Facebook untuk registrasi.
 
 ### Apakah Wobe hanya untuk perempuan? <a name="women">
 
-Jika Anda melihat informasi mengenai hal ini sebelumnya yaitu Wobe hanya untuk perempuan, Wobe ditujukan untuk semua orang- termasuk pria. Pada versi awal/sebelumnya, kami melakukan uji coba kepada perempuan di berbagai daerah di Indonesia dan kami akan melanjutkannya dengan merangkul organisasi untuk menyediakan akeses fungsional tambahan kepada mereka.
+Mungkin Anda telah mendengar informasi bahwa Wobe hanya ditujukan bagi para perempuan, namun kini siapapun dapat bergabung dengan Wobe - termasuk kaum pria. Di versi sebelumnya, kami melakukan uji coba dengan sejumlah perempuan di berbagai daerah di Indonesia, dan kami akan terus bekerja sama dengan berbagai organisasi untuk menyediakan produk serta fitur yang bermanfaat bagi mereka.
 
-Semua orang dapat menggunakan Wobe, dan menyambut Anda untuk bergabung.
-
+Siapapun dapat menggunakan Wobe.
 
 ### Bagaimana cara menggunakan Wobe? <a name="how">
 
-Untuk menggunakan Wobe, silakan unduh aplikasi kami dari Play Store (penggunaan terbatas di Indonesia).
+Untuk menggunakan Wobe, unduh aplikasi kami melalui Play Store (hanya tersedia di Indonesia).
 
-Daftar menggunakan akun Facebook Anda.
+Lakukan registrasi dengan akun Facebook Anda.
 
-Lakukan deposit *saldo* (saldo akun) dengan melakukan transfer ke akun BCA Wobe, kemudian ketuk menu "Top-up" dan masukan nama dan jumlah yang ditransfer. Kami akan memverifikasi deposit Anda dengan rentang waktu maksimal 2 jam (setelah jam 21.00, akan dilakukan pada hari berikutnya).
+Isi saldo Wobe Anda, dengan cara mentransfer dana sesuai nominal yang Anda inginkan ke akun bank BCA Wobe. Kemudian pilih menu Top-Up di aplikasi Wobe dan masukkan nama pemilik rekening dan dana yang telah ditransfer ke rekening Wobe. Kami akan melakukan verifikasi dana yang telah Anda transfer dalam waktu maksimal 2 jam. (Untuk transfer yang dilakukan setelah pukul 21.00 WIB, verifikasi akan dilakukan pada hari kerja berikutnya)
 
-Untuk mulai berjualan, dapat dengan mudah dilakukan dengan cara masukan nomor telepon tujuan yang akan dikirimi pulsa, atau pilih nama dari daftar buku telepon Anda di menu Jual. Jenis operator akan muncul kemudian. Pilih nominal yang ingin Anda jual.
+Untuk mulai berjualan, cukup masukkan nomor ponsel pembeli pulsa atau pilih nama mereka dari ponsel Anda pada menu “Jual”. Nama operator ponsel pembeli akan muncul. Kemudian pilih nominal pulsa sesuai yang diinginkan pembeli.
 
-Keuntungan! (kumpulkan uang tunai dari orang yang baru saja Anda kirimkan pulsa. Anda dapat menentukan harga jual berapa pun namun kami merekomendasikan Anda menyesuaikan dengan harga pasaran, contohnya Rp. 12 000 untuk nominal Rp 10 000, dsb).
+Dapatkan keuntungan! (Jangan lupa tagih pembayaran dari pembeli pulsa Anda. Anda dapat menjual pulsa dengan harga yang Anda tentukan sendiri, namun kami merekomendasikan agar tidak terlalu jauh dengan harga pasaran. Misalnya, harga jual Rp12.000 untuk pulsa dengan nominal Rp10.000)
 
+### Dimana saya dapat mengunduh Wobe? <a name="download">
 
-### Dimana saya bisa mengunduh Wobe? <a name="download">
+Anda dapat mengunduh Wobe di Play Store (hanya tersedia di Indonesia).
 
-Anda dapat mengunduh aplikasi kami di Play Store. (hanya di Indonesia).
+### Berapa jumlah minimum untuk saldo awal? <a name="start">
 
+Anda dapat mengisi saldo Wobe berapapun jumlahnya, namun kami merekomendasikan untuk mulai dengan Rp50.000. Maksimal penambahan saldo Wobe adalah sebesar Rp1.000.000 (satu juta rupiah)
 
-### Berapa jumlah uang yang dibutuhkan untuk memulai deposit? <a name="start">
+### Bagaimana cara menambahkan saldo? <a name="deposit">
 
-Anda dapat melakukan deposit dengan nomminal berapa pun yang Anda inginkan, namun kami merekomendasikan nominal untuk deposit mulai dari Rp 50 000 hingga nominal maksimum adalah Rp 1,000,000 (satu juta rupiah)
+1. Buka aplikasi Wobe di HP Anda
+2. Pilih “Top-up” pada menu
+3. TTransfer dana sejumlah nominal saldo yang Anda inginkan ke rekening Bank BCA Wobe (rekening bank lainnya akan segera tersedia)
+4. Masukkan nama pemilik rekening dan dana yang ditransfer ke rekening Wobe
+5. Tunggu verifikasi (maksimal dalam waktu 2 jam)
+6. Jika Anda mengalami kendala, segera hubungi kami dengan menekan ikon tanda tanya di kanan atas aplikasi, Anda pun dapat langsung terhubung dengan layanan bantuan kami.
 
-### Bagaimana cara melakukan deposit sald <a name="deposit">
+### Apakah saya hanya bisa berjualan pulsa? <a name="pulsa">
 
-1. Buka apikasi Wobe di ponsel Anda 
-2. Pilih menu "Top-up" 
-3. Transfer sesuai jumlah nominal yang diinginkan ke akun bank BCA Wobe (bank lain akan segera hadir)
-4. Masukan nama dan nominal yang sudah ditransfer
-5. Tunggu proses verifikasi (dalam rentang maksimal 2 jam)
-6. Jika Anda mengalami masalah, Anda dapat dengan mudah menghubungi kami dengan ketuk tombol tanda tanya di kanan atas untuk berbicara langsung dengan tim support kami.
+Untuk saat ini, ya.
 
+Kami akan segera meluncurkan produk dan fitur lainnya yang tidak kalah menarik untuk membantu Anda mendapatkan penghasilan tambahan. Nantikan informasinya di [Facebook page](http://facebook.com/wobe.io) kami!
 
-#### Apakah pulsa satu-satunya produk yang bisa saya jual melalui Wobe? <a name="pulsa">
+### Apakah ada cara lain untuk bergabung dengan Wobe? <a name="careers">
 
-Untuk saat ini, iya.
-
-Kami memiliki lebih banyak produk digital menarik yang akan membantu meningkatkan keuntungan Anda, namun masih belum tersedia dalam waktu dekat. Ikuti kami melalui [Facebook page](http://facebook.com/wobe.io) untuk mendapatkan berita-berita terbaru!
-
-
-### Adakah cara lain yang bisa saya lakukan untuk bergabung untuk Wobe? <a name="careers">
-
-Kami secara luas melakukan perekrutan di seluruh Indonesia. Silakan kunjungi laman [careers page](/join#careers) kami untuk mendapatkan informasi lebih lanjut tentang lowongan terbaru.
+Kami sedang membuka lowongan pekerjaan di seluruh Indonesia. Untuk informasi lengkap mengenai posisi yang tersedia, kunjungi halaman [careers page](/join#careers) di situs kami.
