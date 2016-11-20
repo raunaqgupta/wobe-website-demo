@@ -4,7 +4,7 @@ title: Apa itu Wobe?
 subtitle: Tentang Wobe
 intro_title: Memberikan pendapatan bagi mereka yang membutuhkan.
 intro_text: Wobe adalah pendekatan yang inovatif untuk keuangan inklusif. Aplikasi Wobe memungkinkan semua orang untuk menjadi wirausahawan, cukup dengan berbekal ponsel berbasis Android. Wobe bekerjasama dengan kelompok masyarakat dan mitra lokal untuk memperkenalkan Wobe ke mereka yang paling membutuhkan.
-permalink: /tentang/
+permalink: /about/
 ---
 
 Wobe adalah bisnis teknologi finansial yang berbasis di Jakarta, Indonesia. Selama lebih dari setahun terakhir, kami telah mengembangkan solusi bagi masyarakat di sekitar kami. Kami adalah sekelompok pakar teknologi, keuangan, dan komunitas yang dipersatukan oleh kecintaan kami pada Indonesia. Kami menyadari pentingnya solusi lokal untuk menangani isu-isu global. Indonesia adalah fokus utama Wobe, dan inilah yang akan menjadi kunci utama kami untuk meraih keberhasilan di Indonesia.
