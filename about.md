@@ -53,7 +53,7 @@ Wobe adalah aplikasi mobile yang memungkinkan siapapun dengan ponsel Android unt
 
 Wobe mudah digunakan dan terpercaya. Dengan Wobe, mendapatkan penghasilan tambahan bagi Anda dan keluarga menjadi semakin mudah. Dengan menjual produk yang mudah laris, seperti pulsa ponsel, Anda dapat dengan cepat memperoleh pemasukan tambahan yang bisa digunakan untuk mencukupi kebutuhan orang-orang yang Anda sayangi.
 
-### Apa saja yang saya butuhkan untuk berbisnis dengan Wobe? <a name="res">
+### Apa saja yang saya butuhkan untuk berbisnis dengan Wobe? <a name="reqs">
 
 Yang Anda butuhkan hanyalah ponsel Android minimal versi 4.3 lengkap dengan koneksi internet, lebih baik jika koneksi berasal dari sim-card Anda. Selain itu, Anda juga membutuhkan nomor ponsel Indonesia dan akun Facebook untuk registrasi.
 
