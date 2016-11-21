@@ -51,7 +51,7 @@ Wobe is a mobile application that lets anybody with an Android smartphone start 
 
 Wobe is user-friendly and reliable. It is an easy way to make some extra income for you and your family. By selling products that are in high demand, such as phone airtime, you can start a small business to provide more for your loved ones.
 
-### What do I need to start using Wobe? <a name="res">
+### What do I need to start using Wobe? <a name="reqs">
 
 All you need is a modern smartphone running Android 4.3+. You should also have an internet connection, preferably through your sim card. You also need an Indonesian phone number and a Facebook account.
 
