@@ -7,7 +7,7 @@ intro_text:
 permalink: /contact/
 ---
 
-<form action="https://formspree.io/website@wobe.io" method="POST">
+<form action="https://formspree.io/support@wobe.co.id" method="POST">
   <div class="form-group">
     <label for="form-name" class="sr-only">Name</label>
     <input class="form-control" id="form-name" name="form-name" placeholder="Name" />
