@@ -3,8 +3,8 @@ layout: page-about
 title: Apa itu Wobe?
 subtitle: Tentang Wobe
 intro_title: Memberikan pendapatan bagi mereka yang membutuhkan.
-intro_text: Wobe adalah pendekatan yang inovatif untuk keuangan inklusif. Aplikasi Wobe memungkinkan semua orang untuk menjadi wirausahawan, cukup dengan berbekal ponsel berbasis Android. Wobe bekerjasama dengan kelompok masyarakat dan mitra lokal untuk memperkenalkan Wobe ke mereka yang paling membutuhkan.
-permalink: /about/
+intro_text: Aplikasi Wobe memungkinkan semua orang untuk menjadi wirausahawan, cukup dengan berbekal ponsel berbasis Android. Wobe bekerjasama dengan kelompok masyarakat dan mitra lokal untuk memperkenalkan Wobe ke mereka yang paling membutuhkan.
+permalink: /tentang/
 ---
 
 Wobe adalah bisnis teknologi finansial yang berbasis di Jakarta, Indonesia. Selama lebih dari setahun terakhir, kami telah mengembangkan solusi bagi masyarakat di sekitar kami. Kami adalah sekelompok pakar teknologi, keuangan, dan komunitas yang dipersatukan oleh kecintaan kami pada Indonesia. Kami menyadari pentingnya solusi lokal untuk menangani isu-isu global. Indonesia adalah fokus utama Wobe, dan inilah yang akan menjadi kunci utama kami untuk meraih keberhasilan di Indonesia.
@@ -15,7 +15,9 @@ Pada 2015, kami memenangkan kompetisi di [Ideabox accelerator](http://ideabox.co
 
 Wobe memberikan peluang bagi siapa saja di Indonesia untuk mendapat penghasilan tambahan. Siapapun yang memiliki ponsel, dapat dengan mudah berjualan pulsa prabayar. Saat ini kami baru tersedia di ponsel Android.
 
-Kami bekerja sama dengan komunitas dan mitra lokal, seperti koperasi, lembaga keuangan mikro, dan organisasi nirlaba. Kami juga menggelar acara peluncuran dengan tujuan memperkenalkan Wobe kepada perempuan-perempuan di seluruh pelosok daerah di Indonesia.
+Kami bekerja sama dengan komunitas dan mitra lokal, seperti koperasi, lembaga keuangan mikro, dan organisasi nirlaba. Kami juga menggelar beragam acara dengan tujuan memperkenalkan Wobe kepada perempuan-perempuan di seluruh pelosok daerah di Indonesia.
+
+
 
 **Siapapun dengan ponsel Android dapat mengunduh aplikasi Wobe**
 
@@ -43,11 +45,11 @@ Kami bekerja sama dengan komunitas dan mitra lokal, seperti koperasi, lembaga ke
 9. [Apakah saya hanya bisa berjualan pulsa?](#pulsa)
 10. [Apakah ada cara lain untuk bergabung dengan Wobe?](#careers)
 
-Semua yang Anda butuhkan adalah ponsel pintar yang menggunakan sistem Android 4.3+. Anda juga harus memliki koneksi internet, lebih disarankan langsung dari kartu sim ponsel. Anda juga harus mendaftarkan nomor telepon Indonesia dan akun Facebook.
+Semua yang Anda butuhkan adalah ponsel pintar yang menggunakan sistem Android 4.3+. Anda juga harus memiliki koneksi internet, lebih disarankan langsung dari kartu sim ponsel Anda. Anda juga harus memiliki nomor telepon Indonesia dan akun Facebook.
 
 ### Apa itu Wobe? <a name="what">
 
-Wobe adalah aplikasi mobile yang memungkinkan siapapun dengan ponsel Android untuk memulai usaha dengan cara menjual pulsa. Kedepannya, Wobe juga akan menyediakan produk dan fitur pembayaran lainnya.
+Wobe adalah aplikasi ponsel yang memungkinkan siapapun dengan ponsel Android untuk memulai usaha dengan cara menjual pulsa. Ke depannya, Wobe juga akan menyediakan produk dan fitur pembayaran lainnya.
 
 ### Mengapa saya harus menggunakan Wobe? <a name="why">
 
@@ -55,13 +57,13 @@ Wobe mudah digunakan dan terpercaya. Dengan Wobe, mendapatkan penghasilan tambah
 
 ### Apa saja yang saya butuhkan untuk berbisnis dengan Wobe? <a name="reqs">
 
-Yang Anda butuhkan hanyalah ponsel Android minimal versi 4.3 lengkap dengan koneksi internet, lebih baik jika koneksi berasal dari sim-card Anda. Selain itu, Anda juga membutuhkan nomor ponsel Indonesia dan akun Facebook untuk registrasi.
+Yang Anda butuhkan hanyalah ponsel Android minimal versi 4.3 lengkap dengan koneksi internet, lebih baik jika koneksi berasal dari kartu sim ponsel Anda. Selain itu, Anda juga membutuhkan nomor ponsel Indonesia dan akun Facebook untuk registrasi.
 
 ### Apakah Wobe hanya untuk perempuan? <a name="women">
 
 Mungkin Anda telah mendengar informasi bahwa Wobe hanya ditujukan bagi para perempuan, namun kini siapapun dapat bergabung dengan Wobe - termasuk kaum pria. Di versi sebelumnya, kami melakukan uji coba dengan sejumlah perempuan di berbagai daerah di Indonesia, dan kami akan terus bekerja sama dengan berbagai organisasi untuk menyediakan produk serta fitur yang bermanfaat bagi mereka.
 
-Siapapun dapat menggunakan Wobe.
+Meskipun begitu, laki-laki maupun perempuan, siapapun dapat menggunakan Wobe!
 
 ### Bagaimana cara menggunakan Wobe? <a name="how">
 
@@ -86,8 +88,8 @@ Anda dapat mengisi saldo Wobe berapapun jumlahnya, namun kami merekomendasikan u
 ### Bagaimana cara menambahkan saldo? <a name="deposit">
 
 1. Buka aplikasi Wobe di HP Anda
-2. Pilih “Top-up” pada menu
-3. TTransfer dana sejumlah nominal saldo yang Anda inginkan ke rekening Bank BCA Wobe (rekening bank lainnya akan segera tersedia)
+2. Pilih “Deposit” pada menu
+3. Transfer dana sejumlah nominal saldo yang Anda inginkan ke rekening Bank BCA Wobe (rekening bank lainnya akan segera tersedia)
 4. Masukkan nama pemilik rekening dan dana yang ditransfer ke rekening Wobe
 5. Tunggu verifikasi (maksimal dalam waktu 2 jam)
 6. Jika Anda mengalami kendala, segera hubungi kami dengan menekan ikon tanda tanya di kanan atas aplikasi, Anda pun dapat langsung terhubung dengan layanan bantuan kami.
