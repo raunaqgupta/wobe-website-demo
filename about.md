@@ -43,11 +43,11 @@ Kami bekerja sama dengan komunitas dan mitra lokal, seperti koperasi, lembaga ke
 9. [Apakah saya hanya bisa berjualan pulsa?](#pulsa)
 10. [Apakah ada cara lain untuk bergabung dengan Wobe?](#careers)
 
-Semua yang Anda butuhkan adalah ponsel pintar yang menggunakan sistem Android 4.3+. Anda juga harus memliki koneksi internet, lebih disarankan langsung dari kartu sim ponsel. Anda juga harus mendaftarkan nomor telepon Indonesia dan akun Facebook.
+Semua yang Anda butuhkan adalah ponsel pintar yang menggunakan sistem Android 4.3+. Anda juga harus memiliki koneksi internet, lebih disarankan langsung dari kartu sim ponsel Anda. Anda juga harus memiliki nomor telepon Indonesia dan akun Facebook.
 
 ### Apa itu Wobe? <a name="what">
 
-Wobe adalah aplikasi mobile yang memungkinkan siapapun dengan ponsel Android untuk memulai usaha dengan cara menjual pulsa. Kedepannya, Wobe juga akan menyediakan produk dan fitur pembayaran lainnya.
+Wobe adalah aplikasi ponsel yang memungkinkan siapapun dengan ponsel Android untuk memulai usaha dengan cara menjual pulsa. Ke depannya, Wobe juga akan menyediakan produk dan fitur pembayaran lainnya.
 
 ### Mengapa saya harus menggunakan Wobe? <a name="why">
 
@@ -55,13 +55,13 @@ Wobe mudah digunakan dan terpercaya. Dengan Wobe, mendapatkan penghasilan tambah
 
 ### Apa saja yang saya butuhkan untuk berbisnis dengan Wobe? <a name="reqs">
 
-Yang Anda butuhkan hanyalah ponsel Android minimal versi 4.3 lengkap dengan koneksi internet, lebih baik jika koneksi berasal dari sim-card Anda. Selain itu, Anda juga membutuhkan nomor ponsel Indonesia dan akun Facebook untuk registrasi.
+Yang Anda butuhkan hanyalah ponsel Android minimal versi 4.3 lengkap dengan koneksi internet, lebih baik jika koneksi berasal dari kartu sim ponsel Anda. Selain itu, Anda juga membutuhkan nomor ponsel Indonesia dan akun Facebook untuk registrasi.
 
 ### Apakah Wobe hanya untuk perempuan? <a name="women">
 
 Mungkin Anda telah mendengar informasi bahwa Wobe hanya ditujukan bagi para perempuan, namun kini siapapun dapat bergabung dengan Wobe - termasuk kaum pria. Di versi sebelumnya, kami melakukan uji coba dengan sejumlah perempuan di berbagai daerah di Indonesia, dan kami akan terus bekerja sama dengan berbagai organisasi untuk menyediakan produk serta fitur yang bermanfaat bagi mereka.
 
-Siapapun dapat menggunakan Wobe.
+Meskipun begitu, laki-laki maupun perempuan, siapapun dapat menggunakan Wobe!
 
 ### Bagaimana cara menggunakan Wobe? <a name="how">
 
