@@ -17,6 +17,8 @@ Wobe memberikan peluang bagi siapa saja di Indonesia untuk mendapat penghasilan 
 
 Kami bekerja sama dengan komunitas dan mitra lokal, seperti koperasi, lembaga keuangan mikro, dan organisasi nirlaba. Kami juga menggelar beragam acara dengan tujuan memperkenalkan Wobe kepada perempuan-perempuan di seluruh pelosok daerah di Indonesia.
 
+
+
 **Siapapun dengan ponsel Android dapat mengunduh aplikasi Wobe**
 
 ![Screenshot 1](/assets/images/PlayStore_01.png "Screenshot 1")
