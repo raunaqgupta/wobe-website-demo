@@ -15,7 +15,7 @@ Pada 2015, kami memenangkan kompetisi di [Ideabox accelerator](http://ideabox.co
 
 Wobe memberikan peluang bagi siapa saja di Indonesia untuk mendapat penghasilan tambahan. Siapapun yang memiliki ponsel, dapat dengan mudah berjualan pulsa prabayar. Saat ini kami baru tersedia di ponsel Android.
 
-Kami bekerja sama dengan komunitas dan mitra lokal, seperti koperasi, lembaga keuangan mikro, dan organisasi nirlaba. Kami juga menggelar acara peluncuran dengan tujuan memperkenalkan Wobe kepada perempuan-perempuan di seluruh pelosok daerah di Indonesia.
+Kami bekerja sama dengan komunitas dan mitra lokal, seperti koperasi, lembaga keuangan mikro, dan organisasi nirlaba. Kami juga menggelar beragam acara dengan tujuan memperkenalkan Wobe kepada perempuan-perempuan di seluruh pelosok daerah di Indonesia.
 
 **Siapapun dengan ponsel Android dapat mengunduh aplikasi Wobe**
 
