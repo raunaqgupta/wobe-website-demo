@@ -86,8 +86,8 @@ Anda dapat mengisi saldo Wobe berapapun jumlahnya, namun kami merekomendasikan u
 ### Bagaimana cara menambahkan saldo? <a name="deposit">
 
 1. Buka aplikasi Wobe di HP Anda
-2. Pilih “Top-up” pada menu
-3. TTransfer dana sejumlah nominal saldo yang Anda inginkan ke rekening Bank BCA Wobe (rekening bank lainnya akan segera tersedia)
+2. Pilih “Deposit” pada menu
+3. Transfer dana sejumlah nominal saldo yang Anda inginkan ke rekening Bank BCA Wobe (rekening bank lainnya akan segera tersedia)
 4. Masukkan nama pemilik rekening dan dana yang ditransfer ke rekening Wobe
 5. Tunggu verifikasi (maksimal dalam waktu 2 jam)
 6. Jika Anda mengalami kendala, segera hubungi kami dengan menekan ikon tanda tanya di kanan atas aplikasi, Anda pun dapat langsung terhubung dengan layanan bantuan kami.
