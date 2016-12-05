@@ -8,7 +8,7 @@ intro_text: Kami selalu mencari orang yang tepat untuk bergabung bersama kami. A
 permalink: /bergabung/
 ---
 
-## Untuk Agen dan Duta Wobe
+## Cara Menjadi Agen dan Duta Wobe
 Apakah Anda ingin memiliki pekerjaan yang waktunya dapat Anda atur sendiri, atau dapat disesuaikan dengan jadwal Anda? Jadilah agen dan duta Wobe!
 
 Sebagai duta Wobe, Anda dapat menjadi tuan rumah arisan dan acara-acara lainnya untuk memperkenalkan aplikasi Wobe ke teman-teman dan keluarga. Anda dapat bersosialisasi sekaligus mendapatkan gaji.
