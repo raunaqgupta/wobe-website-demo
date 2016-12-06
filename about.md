@@ -49,7 +49,7 @@ Semua yang Anda butuhkan adalah ponsel pintar yang menggunakan sistem Android 4.
 
 ### Apa itu Wobe? <a name="what">
 
-Wobe adalah aplikasi ponsel yang memungkinkan siapapun dengan ponsel Android untuk memulai usaha dengan cara menjual pulsa. Ke depannya, Wobe juga akan menyediakan produk dan fitur pembayaran lainnya.
+Wobe adalah aplikasi ponsel yang memungkinkan siapapun dengan ponsel Android untuk memulai usaha dengan cara menjual pulsa. Ke depannya, Wobe juga akan menyediakan produk digital dan fitur pembayaran lainnya.
 
 ### Mengapa saya harus menggunakan Wobe? <a name="why">
 
@@ -57,7 +57,7 @@ Wobe mudah digunakan dan terpercaya. Dengan Wobe, mendapatkan penghasilan tambah
 
 ### Apa saja yang saya butuhkan untuk berbisnis dengan Wobe? <a name="reqs">
 
-Yang Anda butuhkan hanyalah ponsel Android minimal versi 4.3 lengkap dengan koneksi internet, lebih baik jika koneksi berasal dari kartu sim ponsel Anda. Selain itu, Anda juga membutuhkan nomor ponsel Indonesia dan akun Facebook untuk registrasi.
+Semua yang Anda butuhkan adalah ponsel pintar yang menggunakan sistem Android 4.3+. Anda juga harus memiliki koneksi internet, lebih disarankan langsung dari kartu sim ponsel Anda. Anda juga harus memiliki nomor telepon Indonesia dan akun Facebook untuk registrasi.
 
 ### Apakah Wobe hanya untuk perempuan? <a name="women">
 
@@ -87,7 +87,7 @@ Anda dapat mengisi saldo Wobe berapapun jumlahnya, namun kami merekomendasikan u
 
 ### Bagaimana cara menambahkan saldo? <a name="deposit">
 
-1. Buka aplikasi Wobe di HP Anda
+1. Buka aplikasi Wobe di ponsel Anda
 2. Pilih “Deposit” pada menu
 3. Transfer dana sejumlah nominal saldo yang Anda inginkan ke rekening Bank BCA Wobe (rekening bank lainnya akan segera tersedia)
 4. Masukkan nama pemilik rekening dan dana yang ditransfer ke rekening Wobe
@@ -102,4 +102,4 @@ Kami akan segera meluncurkan produk dan fitur lainnya yang tidak kalah menarik u
 
 ### Apakah ada cara lain untuk bergabung dengan Wobe? <a name="careers">
 
-Kami sedang membuka lowongan pekerjaan di seluruh Indonesia. Untuk informasi lengkap mengenai posisi yang tersedia, kunjungi halaman [careers page](/join#careers) di situs kami.
+Kami sedang membuka lowongan pekerjaan di seluruh Indonesia. Untuk informasi lengkap mengenai posisi yang tersedia, kunjungi laman [careers page](/join#careers) di situs kami.
