@@ -45,7 +45,6 @@ Kami bekerja sama dengan komunitas dan mitra lokal, seperti koperasi, lembaga ke
 9. [Apakah saya hanya bisa berjualan pulsa?](#pulsa)
 10. [Apakah ada cara lain untuk bergabung dengan Wobe?](#careers)
 
-Semua yang Anda butuhkan adalah ponsel pintar yang menggunakan sistem Android 4.3+. Anda juga harus memiliki koneksi internet, lebih disarankan langsung dari kartu sim ponsel Anda. Anda juga harus memiliki nomor telepon Indonesia dan akun Facebook.
 
 ### Apa itu Wobe? <a name="what">
 
