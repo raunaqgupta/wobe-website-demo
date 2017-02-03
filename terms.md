@@ -7,43 +7,41 @@ intro_text:
 permalink: /terms/
 ---
 
-# Wobe Mobile App Terms & Conditions
-
 1. This page (together with the documents referred to on it) tells you the terms of use (the “Terms of Use”) on which you may make use of our “Wobe” application for mobile devices (the “App”). Please read these Terms of Use carefully before you download, install or use the App. By downloading, installing or using the App, you indicate that you accept these Terms of Use and that you agree to abide by them. Your download, installation or use of the App constitutes your acceptance of these Terms of Use which takes effect on the date on which you download, install or use the App. If you do not agree with these Terms of Use, you should cease downloading, installing or using the App immediately.
 
-2. The App is operated by PT Wobe Teknologi Utama, an Indonesian corporation with an office at JI AM Sangaji No. 15B, Jakarta Pusat 10130 (and we refer to ourselves as “we”, “us” or “our”). We own and operate the App on our own behalf.
+2. The App is operated by Wobe Pte Ltd, an company registered at 71 Ayer Rajah Crescent #06-11 Singapore 139951 (and we refer to ourselves as “we”, “us” or “our”). We own and operate the App on our own behalf.
 
-3. We reserve the right to change these Terms of Use at any time without notice to you by posting changes on [Wobe.io/](https://wobe.io/) (the "Website") or by updating the App to incorporate the new terms of use. You are responsible for regularly reviewing information posted online to obtain timely notice of such changes. Your continued use of the App after changes are posted constitutes your acceptance of the amended Terms of Use.
+3. We reserve the right to change these Terms of Use at any time without notice to you by posting changes on [Wobe](https://wobe.io/) (the "Website") or by updating the App to incorporate the new terms of use. You are responsible for regularly reviewing information posted online to obtain timely notice of such changes. Your continued use of the App after changes are posted constitutes your acceptance of the amended Terms of Use.
 
 4. To download, install, access or use the App, you must be 18 years of age or over. If you are under 18 and you wish to use download, install, access or use the App, you must get consent from your parent or guardian before doing so.
 
 5. We operate the software underlying and required for your use of the App from the United States of America and it is possible that some downloads from the App could be subject to government export controls or other restrictions. If you download anything from or use the App, you represent that you are not subject to such controls or restrictions. We make no representation that anything is appropriate, permissible or available for use outside the United States, and using the App from territories in which such use or the information available from such use is illegal, restricted or not permitted, is expressly prohibited. If you choose to access or use the App from or in locations outside of the United States, you do so on your own initiative and are responsible for:
 
-  a) ensuring that what you are doing in that country is legal; and
-  b) the consequences and compliance by you with all applicable laws, regulations, byelaws, codes of practice, licences, registrations, permits and authorisations (including any laws that relate to businesses providing services).
-  c) all access to the App through your mobile device and for bringing these Terms of Use to the attention of all such persons.
+   * ensuring that what you are doing in that country is legal; and
+   * the consequences and compliance by you with all applicable laws, regulations, byelaws, codes of practice, licences, registrations, permits and authorisations (including any laws that relate to businesses providing services).
+   * all access to the App through your mobile device and for bringing these Terms of Use to the attention of all such persons.
 
 6. Use of the App does not include the provision of a mobile device or other necessary equipment to access it. To use the App you will require Internet connectivity and appropriate telecommunication links. We shall not have any responsibility or liability for any telephone or other costs you may incur.
 
 7. You shall not in any way use the App or submit to us or to the App or to any user of the App anything which in any respect:
 
-  a) is in breach of any law, statute, regulation or byelaw of any applicable jurisdiction;
-  b) is fraudulent, criminal or unlawful;
-  c) is inaccurate or out-of-date;
-  d) may be obscene, indecent, pornographic, vulgar, profane, racist, sexist, discriminatory, offensive, derogatory, harmful, harassing, threatening, embarrassing, malicious, abusive, hateful, menacing, defamatory, untrue or political;
-  e) impersonates any other person or body or misrepresents a relationship with any person or body;
-  f) may infringe or breach the copyright or any intellectual property rights (including without limitation copyright, trademark rights and broadcasting rights) or privacy or other rights of us or any third party;
-  g) may be contrary to our interests;
-  h) is contrary to any specific rule or requirement that we stipulate on the App in relation to a particular part of the App or the App generally; or
-  i) involves your use, delivery or transmission of any viruses, unsolicited emails, trojan horses, trap doors, back doors, easter eggs, worms, time bombs, cancelbots or computer programming routines that are intended to damage, detrimentally interfere with, surreptitiously intercept or expropriate any system, data or personal information.
+    * is in breach of any law, statute, regulation or byelaw of any applicable jurisdiction;
+    * is fraudulent, criminal or unlawful;
+    * is inaccurate or out-of-date;
+    * may be obscene, indecent, pornographic, vulgar, profane, racist, sexist, discriminatory, offensive, derogatory, harmful, harassing, threatening, embarrassing, malicious, abusive, hateful, menacing, defamatory, untrue or political;
+    * e) impersonates any other person or body or misrepresents a relationship with any person or body;
+    * may infringe or breach the copyright or any intellectual property rights (including without limitation copyright, trademark rights and broadcasting rights) or privacy or other rights of us or any third party;
+    * may be contrary to our interests;  is contrary to any specific rule or requirement that we stipulate on the App in relation to a particular part of the App or the App generally; or
+    * involves your use, delivery or transmission of any viruses, unsolicited emails, trojan horses, trap doors, back doors, easter eggs, worms, time bombs, cancelbots or computer programming routines that are intended to damage, detrimentally interfere with, surreptitiously intercept or expropriate any system, data or personal information.
 
 8. You agree not to reproduce, duplicate, copy or re-sell the App or any part of the App save as may be permitted by these Terms of Use.
 
 9. You agree not to access without authority, interfere with, damage or disrupt:
-  a) any part of the App;
-  b) any equipment or network on which the App is stored;
-  c) any software used in the provision of the App; or
-  d) any equipment or network or software owned or used by any third party.
+
+    * any part of the App;
+    * any equipment or network on which the App is stored;
+    * any software used in the provision of the App; or
+    * any equipment or network or software owned or used by any third party.
 
 10. You hereby grant to us an irrevocable, royalty-free, worldwide, assignable, sub-licensable licence to use any material which you submit to us or the App for the purpose of use on the App or for generally marketing (by any means and in any media, including, but not limited to, on our website or in our journals) our services. You agree that you waive your moral rights to be identified as the author and we may modify your submission.
 
@@ -67,7 +65,7 @@ permalink: /terms/
 
 19. We make no representation or warranty, express or implied, that information and materials on the App are correct, no warranty or representation, express or implied, is given that they are complete, accurate, up-to-date, fit for a particular purpose and, to the extent permitted by law, we do not accept any liability for any errors or omissions. This shall not affect any obligation which we may have under any contract that we may have with you to provide you with products.
 
- ### Independence from Platforms
+### Independence from Platforms
 
 20. The App is independent of any platform on which it is located. The App is not associated, affiliated, sponsored, endorsed or in any way linked to any platform operator, including, without limitation, Apple, Google, Android or RIM Blackberry (each being an “Operator”).
 
@@ -91,7 +89,7 @@ permalink: /terms/
 
 ### Limitation of Liability
 
-30. You hereby release PT Wobe Teknologi Utama, its officers, directors, agents, and employees from all claims, demands, and damages (actual and consequential) of any kind and nature, known and unknown, suspected and unsuspected, disclosed and undisclosed, arising out of, or in any way, connected with any disputes arising between you and any suppliers, or between you and other App or Website users.
+30. You hereby release Wobe Pte Ltd, its officers, directors, agents, and employees from all claims, demands, and damages (actual and consequential) of any kind and nature, known and unknown, suspected and unsuspected, disclosed and undisclosed, arising out of, or in any way, connected with any disputes arising between you and any suppliers, or between you and other App or Website users.
 
 31. You assume all responsibility and risk with respect to your use of the app. the app is available “as is,” and “as available”. You understand and agree that, to the fullest extent permitted by law, we disclaim all warranties, representations and endorsements, express or implied, with regard to the site, including, without limitation, implied warranties of title, merchantability, non-infringement and fitness for a particular purpose. We do not warrant use of the site will be uninterrupted or error-free or that errors will be detected or corrected. we do not assume any liability or responsibility for any computer viruses, bugs, malicious code or other harmful components, delays, inaccuracies, errors or omissions, or the accuracy, completeness, reliability or usefulness of the information disclosed or accessed through the app. We have no duty to update or modify the app and we are not liable for our failure to do so. in no event, under no legal or equitable theory (whether tort, contract, strict liability or otherwise), shall we or any of our respective employees, directors, officers, agents or affiliates, be liable hereunder or otherwise for any loss or damage of any kind, direct or indirect, in connection with or arising from the app, the use of the app or our agreement with you concerning the app, including, but not limited to, compensatory, direct, consequential, incidental, indirect, special or punitive damages, lost anticipated profits, loss of goodwill, loss of data, business interruption, accuracy of results, or computer failure or malfunction, even if we have been advised of or should have known of the possibility of such damages. if we are held liable to you in a court of competent jurisdiction for any reason, in no event will we be liable for any damages in excess of one hundred fifty dollars (us$150.00). some jurisdictions do not allow the limitation or exclusion of liability for consequential or incidental damages, so the above limitation or exclusion may not apply to you. if any limitation on remedies, damages or liability is prohibited or restricted by law, we shall remain entitled to the maximum disclaimers and limitations available under this agreement, at law and/or in equity.
 
@@ -101,7 +99,7 @@ permalink: /terms/
 
 ### Indemnification
 
-33. You agree to indemnify and hold PT Wobe Teknologi Utama and each of our affiliates, successors and assigns, and their respective officers, directors, employees, agents, representatives, licensors, advertisers, suppliers, and operational service providers harmless from and against any and all losses, expenses, damages, costs and expenses (including attorneys’ fees), resulting from your use of the App and/or any violation of the terms of this Agreement. We reserve the right to assume the exclusive defense and control of any demand, claim or action arising hereunder or in connection with the App and all negotiations for settlement or compromise. You agree to fully cooperate with us in the defense of any such demand, claim, action, settlement or compromise negotiations, as requested by us.
+33. You agree to indemnify and hold Wobe Pte Ltd and each of our affiliates, successors and assigns, and their respective officers, directors, employees, agents, representatives, licensors, advertisers, suppliers, and operational service providers harmless from and against any and all losses, expenses, damages, costs and expenses (including attorneys’ fees), resulting from your use of the App and/or any violation of the terms of this Agreement. We reserve the right to assume the exclusive defense and control of any demand, claim or action arising hereunder or in connection with the App and all negotiations for settlement or compromise. You agree to fully cooperate with us in the defense of any such demand, claim, action, settlement or compromise negotiations, as requested by us.
 
 ### Trade Marks
 
@@ -128,8 +126,9 @@ permalink: /terms/
 41. We have no control over and accept no responsibility for the content of any website or mobile application to which a link from the App exists (unless we are the provider of those linked websites or mobile applications). Such linked websites and mobile applications are provided “as is” for your convenience only with no warranty, express or implied, for the information provided within them. We do not provide any endorsement or recommendation of any third party website or mobile application to which the App provides a link. The terms and conditions, terms of use and privacy policies of those third party websites and mobile applications will apply to your use of those websites and mobile applications and any orders you make for goods and services via such websites and mobile applications. If you have any queries, concerns or complaints about such third party websites or mobile applications (including, but not limited to, queries, concerns or complaints relating to products, orders for products, faulty products and refunds) you must direct them to the operator of that third party website or mobile application.
 
 42. You must not without our permission:
-  a) use or copy any material from the App, including, but not limited to, onto other websites or in other mobile applications; or
-  b) frame any of the App onto your own or another person’s website or mobile application.
+
+    * use or copy any material from the App, including, but not limited to, onto other websites or in other mobile applications; or
+    * frame any of the App onto your own or another person’s website or mobile application.
 
 ### Severability
 
