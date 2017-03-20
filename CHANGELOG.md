@@ -1,4 +1,7 @@
-# Change log
+# CHANGELOG
+
+## 2017-03-19
+* Removing Intercom Chat ([@orlando](https://github.com/orlando))
 
 ## 2016-02-02
 
