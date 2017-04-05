@@ -1,11 +1,11 @@
 ---
+title: Berkarir Bersama Wobe
 layout: page-join
-title: Bergabung dengan Wobe
 subtitle: Dua cara untuk bergabung bersama Wobe
-intro_title: Jadilah bagian dari salah satu start-up dengan pertumbuhan tercepat di Indonesia!
-intro_text: Kami selalu mencari orang yang tepat untuk bergabung bersama kami. Anda dapat bergabung sebagai agen, Duta Wobe, ataupun sebagai karyawan.  Apapun posisinya, petualangan bersama kami pasti seru dan Anda pasti bisa belajar banyak sekali bersama kami!
-
-permalink: /bergabung/
+intro_title: Jadilah bagian dari salah satu start-up dengan pertumbuhan tercepat di
+  Indonesia!
+intro_text: Kami selalu mencari orang yang tepat untuk bergabung bersama kami. Anda dapat bergabung sebagai agen, Duta Wobe, ataupun sebagai karyawan. Apa pun posisinya, petualangan bersama kami pasti seru dan Anda bisa belajar banyak bersama kami!
+permalink: "/bergabung/"
 ---
 
 ## Cara Menjadi Agen dan Duta Wobe
