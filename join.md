@@ -15,5 +15,6 @@ Sebagai duta Wobe, Anda dapat menjadi tuan rumah arisan dan acara-acara lainnya 
 
 Sebagai agen Wobe, Anda dapat langsung menggunakan apilkasi Android kami yang mudah digunakan, dan Anda pun dapat langsung mulai berjualan pulsa!
 
-### Berkarir di Wobe
+
+### Berkerja di Wobe
 Bagi Anda yang siap untuk mengembangkan karir Anda, segera daftarkan diri Anda pada posisi-posisi ini!
