@@ -13,6 +13,7 @@ play_store_url: "https://play.google.com/store/search?q=wobe"
 soc_facebook: "http://facebook.com/wobe.io"
 soc_twitter: "http://twitter.com/Wobe_ID"
 soc_youtube: "https://www.youtube.com/channel/UCUHFZXe7m9RBrZ6L1SWVcrA"
+soc_instagram: "https://www.instagram.com/wobeindonesia/"
 
 # Build settings
 markdown: kramdown
