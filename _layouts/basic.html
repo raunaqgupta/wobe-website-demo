@@ -22,30 +22,15 @@
 </header>
 <!-- //Page Header -->
 
-<section class="page-section map-section">
-  <div class="row">
-    {% for location in layout.locations %}
-    {% assign field = location | split: ", " %}
-    <div class="column">
-      <img src="{{ field[4] }}" alt="{{ field[0] }}">
-      <p><strong>{{ field[0] }}</strong><br>
-        {{ field[1] }}<br>
-        {{ field[2] }}<br>
-        {{ field[3] }}</p>
-    </div>
-    {% endfor %}
-  </div>
-</section>
-
-<section class="page-section form-section">
+<section class="page-section article-section">
   <div class="container">
     <h2>{{ page.subtitle }}</h2>
 
     {{ content }}
+
   </div>
 </section>
 
 {% include footer.html %}
-
 </body>
 </html>

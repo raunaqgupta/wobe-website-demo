@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: basic
 title:  "Welcome to the brand new Wobe!"
 date:   2016-10-18 22:10:19 +0700
 categories:
