@@ -2,7 +2,6 @@
 
 ## 2017-07-21
 * Updated main website pages to be jekyll-admin compatible
-* Removed _templates
 * Cleaned up _layouts; removed duplicate/unnecessary template files
 * Added jekyll-admin as a plugin dependency in gemfile
 
