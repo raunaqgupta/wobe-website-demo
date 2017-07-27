@@ -7,7 +7,7 @@
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
 
   <!-- Theme CSS -->
-  <link rel="stylesheet" href="{{ "/assets/styles/styles_berdaya.min.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "assets/styles/styles_berdaya.min.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
 
@@ -42,7 +42,7 @@
         <span class="icon-bar"></span>
       </button>
       <a class="navbar-brand" href="/berdaya/">
-        <img src="{{"/assets/images/logo_berdaya.png" | prepend: site.baseurl }}" alt="Wobe">
+        <img src="{{"assets/images/logo_berdaya.png" | prepend: site.baseurl }}" alt="Wobe">
         <span class="sr-only">Wobe - Mobile &amp; finance tool to help you kickstart your own business.</span>
       </a>
     </div>
@@ -78,14 +78,14 @@
 <section class="page-section map-section">
   <div class="row">
     <div class="column">
-      <img src="/assets/images/map-wobe-singapore.png" />
+      <img src="assets/images/map-wobe-singapore.png" />
       <p><strong>Berdaya (by Wobe)</strong><br>
         71 Ayer Rajah Crescent<br>
         #06-­11<br>
         Singapore 139951</p>
     </div>
     <div class="column">
-      <img src="/assets/images/map-wobe-indonesia.png" />
+      <img src="assets/images/map-wobe-indonesia.png" />
       <p><strong>PT. Wobe Teknologi Utama</strong><br>
       Jl. Nias No. 82, Gubeng Kecamatan Gubeng Kota,<br>
       Surabaya, Indonesia</p>
@@ -120,7 +120,7 @@
   <div class="container">
     <div class="row inner">
       <div class="col-sm-12 col-md-6 bottom-logo">
-        <img src="{{"/assets/images/logo-copy_berdaya.png" | prepend: site.baseurl }}" alt="Wobe">
+        <img src="{{"assets/images/logo-copy_berdaya.png" | prepend: site.baseurl }}" alt="Wobe">
         <p><strong>Berdaya (by Wobe)</strong><br>
           Jl AM Sangaji No 15B<br>
           Jakarta Pusat 10130</p>
@@ -143,7 +143,7 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.3/jquery.min.js"></script>
 <script src="https://use.fontawesome.com/9cafd4fe2e.js"></script>
-<script src="{{"/assets/scripts/scripts_berdaya.js" | prepend: site.baseurl }}"></script>
+<script src="{{"assets/scripts/scripts_berdaya.js" | prepend: site.baseurl }}"></script>
 
 </body>
 </html>

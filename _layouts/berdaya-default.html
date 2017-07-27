@@ -7,7 +7,7 @@
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
 
   <!-- Theme CSS -->
-  <link rel="stylesheet" href="{{ "/assets/styles/styles_berdaya.min.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "assets/styles/styles_berdaya.min.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
 
@@ -42,7 +42,7 @@
         <span class="icon-bar"></span>
       </button>
       <a class="navbar-brand" href="/berdaya/">
-        <img src="{{"/assets/images/logo_berdaya.png" | prepend: site.baseurl }}" alt="Wobe">
+        <img src="{{"assets/images/logo_berdaya.png" | prepend: site.baseurl }}" alt="Wobe">
         <span class="sr-only">Wobe - Mobile &amp; finance tool to help you kickstart your own business.</span>
       </a>
     </div>
@@ -69,16 +69,16 @@
 <header class="header-wrapper">
   <div class="container">
     <div class="header-image">
-      <img src="{{"/assets/images/header-image.png" | prepend: site.baseurl }}" alt="Wobe" />
+      <img src="{{"assets/images/header-image.png" | prepend: site.baseurl }}" alt="Wobe" />
     </div>
     <div class="hero-wrapper">
       <div class="hero-image">
-        <img src="{{"/assets/images/phone-wobe.png" | prepend: site.baseurl }}" alt="">
+        <img src="{{"assets/images/phone-wobe.png" | prepend: site.baseurl }}" alt="">
       </div>
       <div class="hero-text visible-md visible-lg row">
-        <img src="{{"/assets/images/logo-wobe.png" | prepend: site.baseurl }}" alt="Wobe" />
+        <img src="{{"assets/images/logo-wobe.png" | prepend: site.baseurl }}" alt="Wobe" />
         <p>Brought to you by Wobe,<br>Mobile Business & Finance Tools for<br>Southeast Asian Women</p>
-        <a href="{{ site.play_store_url }}"><img src="{{"/assets/images/play-store@2x.png" | prepend: site.baseurl }}" alt="Download our app in Google play"></a>
+        <a href="{{ site.play_store_url }}"><img src="{{"assets/images/play-store@2x.png" | prepend: site.baseurl }}" alt="Download our app in Google play"></a>
       </div>
     </div>
   </div>
@@ -122,21 +122,21 @@
     <div class="row services-list">
       <div class="col-sm-12 col-md-4 services-items">
         <div class="inner">
-          <img src="{{"/assets/images/to-do@2x.png" | prepend: site.baseurl }}" alt="Lorem">
+          <img src="{{"assets/images/to-do@2x.png" | prepend: site.baseurl }}" alt="Lorem">
           <h3>Untapped <br>Potential</h3>
           <p>{{ page.untapped_potential }}</p>
         </div>
       </div>
       <div class="col-sm-12 col-md-4 services-items">
         <div class="inner">
-          <img src="{{"/assets/images/speaker-01@2x.png" | prepend: site.baseurl }}" alt="Lorem">
+          <img src="{{"assets/images/speaker-01@2x.png" | prepend: site.baseurl }}" alt="Lorem">
           <h3>Employment, <br>everywhere</h3>
           <p>{{ page.employment_everywhere }}</p>
         </div>
       </div>
       <div class="col-sm-12 col-md-4 services-items">
         <div class="inner">
-          <img src="{{"/assets/images/alarm@2x.png" | prepend: site.baseurl }}" alt="Lorem">
+          <img src="{{"assets/images/alarm@2x.png" | prepend: site.baseurl }}" alt="Lorem">
           <h3>Always <br>On</h3>
           <p>{{ page.always_on }}</p>
         </div>
@@ -149,7 +149,7 @@
   <div class="container">
     <div class="row inner">
       <div class="col-sm-12 col-md-6 bottom-logo">
-        <img src="{{"/assets/images/logo-copy_berdaya.png" | prepend: site.baseurl }}" alt="Wobe">
+        <img src="{{"assets/images/logo-copy_berdaya.png" | prepend: site.baseurl }}" alt="Wobe">
         <p><strong>Berdaya (by Wobe)</strong><br>
           Jl AM Sangaji No 15B<br>
           Jakarta Pusat 10130</p>
@@ -172,6 +172,6 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.3/jquery.min.js"></script>
 <script src="https://use.fontawesome.com/9cafd4fe2e.js"></script>
-<script src="{{"/assets/scripts/scripts_berdaya.js" | prepend: site.baseurl }}"></script>
+<script src="{{"assets/scripts/scripts_berdaya.js" | prepend: site.baseurl }}"></script>
 </body>
 </html>

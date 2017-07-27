@@ -22,15 +22,15 @@ We partner with community and commercial partners like co-ops, micro-finance and
 
 **Anyone with an Android smartphone can download Wobe app**
 
-![Screenshot 1](/assets/images/PlayStore_01.png "Screenshot 1")
+![Screenshot 1](assets/images/PlayStore_01.png "Screenshot 1")
 
 **After signing up with their Facebook account, they can start selling phone airtime right away.**
 
-![Screenshot 2](/assets/images/PlayStore_02.png "Screenshot 2")
+![Screenshot 2](assets/images/PlayStore_02.png "Screenshot 2")
 
 **Phone airtime is delivered over the air to the recipient, Wobe agent collects cash as payment.**
 
-![Screenshot 4](/assets/images/PlayStore_04.png "Screenshot 4")
+![Screenshot 4](assets/images/PlayStore_04.png "Screenshot 4")
 
 
 ## FAQ
