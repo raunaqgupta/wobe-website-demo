@@ -1,8 +1,7 @@
 ---
+title: Welcome to the brand new Wobe!
+date: 2016-10-18 15:10:19 Z
 layout: basic
-title:  "Welcome to the brand new Wobe!"
-date:   2016-10-18 22:10:19 +0700
-categories:
 ---
 
 We're very proud to announce the launch of a brand new Wobe — we are brand new in every way.

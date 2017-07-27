@@ -1,7 +1,7 @@
 ---
-layout: basic
 title: Blog
-permalink: /blog/
+permalink: "/blog/"
+layout: basic
 ---
 
 {% for post in site.posts %}

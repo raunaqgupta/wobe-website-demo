@@ -1,10 +1,10 @@
 ---
-layout: page
 title: Privacy Policy
-subtitle:
-intro_title:
-intro_text:
-permalink: /privacy-policy/
+permalink: "/privacy-policy/"
+layout: page
+subtitle: 
+intro_title: 
+intro_text: 
 ---
 
 # Wobe Privacy Policy (English)

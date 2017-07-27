@@ -1,10 +1,12 @@
 ---
-layout: basic
 title: Join Wobe
+permalink: "/join/"
+layout: basic
 subtitle: Wobe Careers
 intro_title: Be part of the fastest-growing startup family in Indonesia
-intro_text: We're always looking for the right people to join our award-winning startup. Whether you join as an agent, ambassador or as an Wobe employee, you are guaranteed to have a fun time while learning a lot with us on the job.
-permalink: /join/
+intro_text: We're always looking for the right people to join our award-winning startup.
+  Whether you join as an agent, ambassador or as an Wobe employee, you are guaranteed
+  to have a fun time while learning a lot with us on the job.
 ---
 
 ## For Agents and Ambassadors

@@ -1,10 +1,10 @@
 ---
-layout: page
 title: Wobe Application Terms & Conditions
-subtitle:
-intro_title:
-intro_text:
-permalink: /terms/
+permalink: "/terms/"
+layout: page
+subtitle: 
+intro_title: 
+intro_text: 
 ---
 
 # Wobe Mobile App Terms & Conditions

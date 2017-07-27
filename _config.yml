@@ -1,18 +1,21 @@
-# If you change any of these settings, website will need to be rebuilt
-
-# Site settings
+---
 title: Wobe
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 email: info@wobe.io
-description: > # this means to ignore newlines until "baseurl:"
-  Mobile & finance tool to help you kickstart your own business.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://wobe.io" # the base hostname & protocol for your site
+description: 'Mobile & finance tool to help you kickstart your own business.
 
-# Wobe specific variables
-play_store_url: "https://play.google.com/store/search?q=wobe"
-soc_facebook: "http://facebook.com/wobe.io"
-soc_twitter: "http://twitter.com/Wobe_ID"
-soc_youtube: "https://www.youtube.com/channel/UCUHFZXe7m9RBrZ6L1SWVcrA"
-
-# Build settings
+'
+baseurl: ''
+url: http://wobe.io
+play_store_url: https://play.google.com/store/search?q=wobe
+soc_facebook: http://facebook.com/wobe.io
+soc_twitter: http://twitter.com/Wobe_ID
+soc_youtube: https://www.youtube.com/channel/UCUHFZXe7m9RBrZ6L1SWVcrA
 markdown: kramdown

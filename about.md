@@ -1,10 +1,13 @@
 ---
-layout: about
 title: What is Wobe?
+permalink: "/about/"
+layout: about
 subtitle: About Wobe
 intro_title: Providing income to anyone who needs one
-intro_text: Wobe is an innovative approach to financial inclusion. Our award-winning mobile app puts the power of self-employment in the hands of anyone in Indonesia with an Android phone. We work closely within communities and with community partners to roll out Wobe to the people who need it most.
-permalink: /about/
+intro_text: Wobe is an innovative approach to financial inclusion. Our award-winning
+  mobile app puts the power of self-employment in the hands of anyone in Indonesia
+  with an Android phone. We work closely within communities and with community partners
+  to roll out Wobe to the people who need it most.
 ---
 
 Wobe is a fintech startup based in Jakarta, Indonesia, where we have been building solutions for the communities around us for more than a year now. We are a group of technological, community and financial specialists brought together by a love for Indonesia. We believe in local solutions for global issues, and here you'll find our razor focus on Indonesia helps us do this one thing well: be effective and successful in Indonesia.
