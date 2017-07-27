@@ -1,9 +1,9 @@
 ---
-layout: page-contact
+layout: contact
 title: Contact
-subtitle:
-intro_title:
-intro_text:
+locations:
+  - Surabaya (Coming Soon!), Jl. Nias No. 82, Gubeng Kecamatan Gubeng Kota, Surabaya Indonesia, /assets/images/map-wobe-indonesia.png
+  - Jakarta - PT Wobe Teknologi Utama, Jl AM Sangaji No 15B, Petojo Utara, Jakarta Pusat 10130, /assets/images/map-wobe-singapore.png
 permalink: /contact/
 ---
 

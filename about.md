@@ -1,5 +1,5 @@
 ---
-layout: page-about
+layout: about
 title: What is Wobe?
 subtitle: About Wobe
 intro_title: Providing income to anyone who needs one

@@ -1,5 +1,5 @@
 ---
-layout: page-join
+layout: basic
 title: Join Wobe
 subtitle: Wobe Careers
 intro_title: Be part of the fastest-growing startup family in Indonesia
@@ -18,3 +18,11 @@ Download our app here and drop us a message inside on why you think you will be 
 
 ## Wobe Careers
 Those of you who are ready for the next step in your careers, you are welcome to apply to our jobs below!
+
+<script src='https://www.workable.com/assets/embed.js' type='text/javascript'></script>
+<script type='text/javascript' charset='utf-8'>
+  whr(document).ready(function(){
+    whr_embed(148761, {detail: 'titles', base: 'jobs', zoom: 'country', grouping: 'none'});
+  });
+</script>
+<div id="whr_embed_hook"></div>
