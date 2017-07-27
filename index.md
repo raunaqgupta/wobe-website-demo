@@ -1,6 +1,6 @@
 ---
-layout: index
-page_title: We Use Wobe
+title: Index
+page_title: We Use Wobe Too
 page_subtitle: '"We started our own business selling airtime with Wobe. You should
   join us."'
 testimonial_one_image: assets/images/avatar-ida.png
@@ -21,5 +21,6 @@ untapped_potential: Start selling pulsa with any amount of saldo. All you need i
 employment_everywhere: Whenever you have any questions, or problems, you can talk
   to us.
 always_on: Sell from anywhere, any time. 24/7.
+layout: index
 ---
 
